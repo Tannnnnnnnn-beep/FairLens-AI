@@ -1,0 +1,1501 @@
+name,gender,college_tier,skills_score,projects,test_score,decision
+Alexander Hill,Male,State University,66.5,3,63.4,Rejected
+Nancy Rhodes,Female,State University,53.6,5,99.4,Selected
+Angie Henderson,Female,State University,80.2,4,72.5,Selected
+Daniel Wagner,Male,Community College,76.7,1,68.7,Rejected
+Cristian Santos,Male,State University,61.6,1,84.7,Rejected
+Daniel Lawrence,Male,State University,64.6,5,59.3,Rejected
+Aaron Shaffer,Male,State University,64.8,0,73.7,Rejected
+Gina Moore,Female,State University,70.1,3,61.7,Rejected
+George Davis,Male,State University,73.9,1,89.0,Rejected
+Sarah Munoz,Female,State University,71.1,3,70.7,Rejected
+Nicholas Herrera,Male,Community College,86.5,4,68.7,Selected
+Mrs. Kristen Calderon,Female,State University,76.8,0,92.5,Rejected
+Shannon Ray,Female,Community College,68.7,5,79.0,Selected
+Angel Perez,Male,State University,63.6,2,87.5,Rejected
+Bobby Hall,Male,State University,74.9,1,97.2,Rejected
+Donald Reid,Male,Ivy League / Elite,65.1,4,85.6,Selected
+Jacob Clark,Male,Ivy League / Elite,94.7,6,66.1,Selected
+Timothy Wong,Male,State University,75.2,3,100.0,Selected
+Christopher Daniel,Male,Community College,77.0,1,57.1,Rejected
+James Mayo,Male,State University,49.0,4,91.3,Rejected
+Justin Cohen,Male,State University,58.8,2,69.1,Rejected
+Ricardo Perez,Male,State University,69.6,3,59.4,Rejected
+Ethan Adams,Male,Community College,77.6,7,59.8,Selected
+Tommy Walter,Male,State University,57.2,6,79.2,Selected
+Matthew Foster,Male,State University,73.2,2,65.1,Rejected
+Judy Baker,Female,State University,79.6,3,66.0,Rejected
+Justin Baker,Male,State University,87.8,1,69.7,Rejected
+Steven Ross,Male,Ivy League / Elite,63.1,5,82.9,Selected
+Zachary Hicks,Male,State University,63.0,3,69.7,Rejected
+Anthony Rodriguez,Male,State University,76.3,4,84.6,Selected
+Ricky Henderson,Male,Ivy League / Elite,67.2,1,74.5,Rejected
+James Ferrell,Male,Community College,69.1,0,76.6,Rejected
+Wesley Valencia,Male,State University,97.9,1,83.4,Rejected
+Michelle Maldonado,Female,State University,72.4,3,74.0,Rejected
+Debra Davidson,Female,State University,78.8,4,69.9,Rejected
+Jessica Chavez,Female,State University,69.2,4,66.0,Rejected
+Shawn Baker,Male,State University,72.6,3,72.7,Rejected
+Christopher Gaines,Male,Community College,74.4,3,79.7,Rejected
+Elizabeth Fowler,Female,State University,64.2,4,49.7,Rejected
+Christian Farmer,Male,Ivy League / Elite,80.8,2,79.6,Rejected
+Richard Moreno,Male,Ivy League / Elite,86.1,3,63.5,Rejected
+Fred Smith,Male,State University,64.2,1,73.6,Rejected
+Shawn Decker,Male,State University,78.5,0,65.3,Rejected
+Amy Humphrey,Female,Ivy League / Elite,85.0,3,96.4,Selected
+Bradley Tucker,Male,Ivy League / Elite,73.2,2,77.8,Rejected
+Paige Cannon,Female,State University,63.5,2,76.7,Rejected
+John Pierce,Male,State University,53.6,5,80.0,Rejected
+Shane Henderson,Male,State University,99.5,0,72.8,Rejected
+Joshua Blair,Male,State University,86.5,2,83.8,Rejected
+Eric Carney,Male,Ivy League / Elite,89.1,2,55.6,Rejected
+Jessica Holmes,Female,Ivy League / Elite,90.4,1,82.6,Rejected
+Courtney Morgan,Female,State University,58.6,3,80.8,Rejected
+Crystal Robinson,Female,State University,48.5,7,63.1,Rejected
+Lynn Perez,Female,State University,71.5,3,92.1,Rejected
+Scott Jones,Male,State University,61.5,0,77.8,Rejected
+Maureen Lewis,Female,Community College,74.5,2,81.9,Rejected
+Timothy Duncan,Male,State University,52.8,2,74.1,Rejected
+Richard Aguirre,Male,State University,83.1,4,78.0,Selected
+Brent Jordan,Male,State University,64.3,3,63.1,Rejected
+John Daniel,Male,State University,72.8,7,76.4,Selected
+William Garcia,Male,Ivy League / Elite,82.8,2,73.5,Rejected
+Gerald Hensley,Male,State University,87.6,5,68.4,Selected
+Cheryl West,Female,State University,66.6,2,77.8,Rejected
+Donald Wright,Male,State University,63.5,5,67.4,Rejected
+Jeremy Callahan,Male,State University,57.0,2,77.8,Rejected
+Anthony Kidd,Male,State University,60.9,4,96.7,Selected
+Wayne House,Male,Ivy League / Elite,97.5,7,89.0,Selected
+Carol Tucker,Female,State University,79.1,2,66.6,Rejected
+James Brown,Male,Community College,64.9,0,54.1,Rejected
+Victoria Baker,Female,State University,48.6,3,72.2,Rejected
+Jordan Henderson,Female,Community College,55.9,5,74.5,Rejected
+Zachary Peters,Male,State University,75.2,3,77.8,Rejected
+Christopher Phillips,Male,State University,86.6,3,83.9,Selected
+Ms. Kimberly Adkins,Female,State University,80.8,3,62.0,Rejected
+Lauren Shaw,Female,Community College,70.9,3,79.6,Rejected
+Brooke Yu,Female,State University,78.9,5,75.2,Selected
+Charlene Larson,Female,Community College,99.6,5,52.5,Selected
+David Wilson,Male,State University,72.9,5,78.8,Selected
+David Wheeler,Male,State University,64.5,4,72.5,Rejected
+Jason Silva,Male,Ivy League / Elite,79.8,3,73.0,Rejected
+Taylor Harris,Female,Community College,75.1,0,78.7,Rejected
+David Foster,Male,Ivy League / Elite,97.4,5,75.4,Selected
+Elijah Stewart,Male,State University,54.6,1,70.5,Rejected
+Benjamin Ellis,Male,Community College,62.2,6,67.5,Selected
+Dr. Benjamin Lewis III,Male,Community College,51.6,6,88.3,Selected
+Stanley Suarez,Male,Ivy League / Elite,71.0,0,94.1,Rejected
+Brooke Bass,Female,Community College,74.2,1,93.6,Rejected
+Logan Archer,Male,Ivy League / Elite,76.4,6,100.0,Selected
+Aimee Montoya,Female,State University,91.6,5,68.8,Selected
+Matthew Mcmillan,Male,State University,81.9,1,75.0,Rejected
+Brian Rodriguez,Male,Ivy League / Elite,93.4,2,91.0,Selected
+Denise Jacobs,Female,State University,80.2,1,73.1,Rejected
+Christina Walters,Female,State University,61.9,3,79.8,Rejected
+John Whitehead,Male,State University,55.6,1,93.5,Rejected
+Anna Henderson,Female,State University,67.8,4,86.5,Selected
+Aaron Wise,Male,State University,68.3,7,90.4,Selected
+Dennis Figueroa,Male,Ivy League / Elite,63.1,1,76.2,Rejected
+Jeffrey Smith,Male,State University,81.3,4,73.5,Selected
+Stephen Mckee,Male,State University,84.4,3,71.3,Rejected
+Ruben Aguilar,Male,State University,76.8,1,46.3,Rejected
+Cameron Parker,Male,Ivy League / Elite,82.5,2,52.8,Rejected
+Robert Valencia,Male,State University,70.1,2,79.7,Rejected
+Daniel Wright,Male,State University,76.7,2,78.5,Rejected
+Richard Henson,Male,Ivy League / Elite,81.5,3,79.5,Selected
+Lisa Moore,Female,State University,76.3,3,66.6,Rejected
+Sean Cherry,Male,State University,60.9,6,72.3,Selected
+Stanley Johnson,Male,Ivy League / Elite,73.7,3,82.5,Rejected
+Evelyn Galvan,Female,State University,58.4,4,72.2,Rejected
+Sean Cochran,Male,Ivy League / Elite,83.0,3,88.5,Selected
+Richard Rodriguez,Male,Ivy League / Elite,81.2,0,76.2,Rejected
+Scott Walker,Male,State University,58.7,4,61.7,Rejected
+Joe Torres,Male,Community College,100.0,0,83.1,Rejected
+Crystal Johnson,Female,State University,66.9,2,81.3,Rejected
+Erin Lin,Female,State University,66.6,1,75.6,Rejected
+Mr. Martin Ross,Male,Community College,68.5,3,75.3,Rejected
+Kimberly Crosby MD,Female,Ivy League / Elite,100.0,1,52.3,Rejected
+Mrs. Tonya Baker,Female,State University,66.6,7,92.7,Selected
+Jeffrey Chandler,Male,State University,59.6,3,67.7,Rejected
+Lisa Dixon,Female,Community College,64.2,3,65.2,Rejected
+Kenneth Scott,Male,State University,79.2,2,65.5,Rejected
+April Frost,Female,Community College,54.6,3,67.9,Rejected
+Michelle Harmon,Female,State University,78.1,5,74.2,Selected
+Jackson Jones,Male,State University,60.3,3,85.4,Rejected
+Gary Edwards,Male,State University,78.1,3,60.6,Rejected
+Nathan Evans,Male,State University,76.4,6,86.9,Selected
+Jason Powell,Male,State University,78.4,3,83.5,Rejected
+Bethany Fisher,Female,State University,83.8,4,83.3,Selected
+Megan Orr,Female,Community College,66.9,2,67.5,Rejected
+Eric Kelley,Male,Ivy League / Elite,83.6,5,79.5,Selected
+Dustin Jordan,Male,State University,58.0,3,89.1,Rejected
+Matthew Marshall,Male,Community College,75.2,3,83.0,Rejected
+Daniel Kennedy,Male,Ivy League / Elite,97.2,3,91.4,Selected
+Robert Jackson,Male,Ivy League / Elite,80.4,2,99.4,Selected
+Jose Schultz,Male,Community College,74.7,3,68.0,Rejected
+Sabrina Potter,Female,State University,75.3,4,93.1,Selected
+Danny Gonzalez,Male,State University,76.2,6,73.8,Selected
+David Alvarez,Male,State University,70.9,0,70.0,Rejected
+Angel Perry,Female,State University,83.9,5,80.5,Selected
+Cory Horton,Male,Ivy League / Elite,73.2,2,74.9,Rejected
+Dana Douglas,Female,Community College,47.6,5,86.7,Rejected
+Nicole Carrillo,Female,State University,70.8,5,75.4,Selected
+Jeffery Thompson,Male,Ivy League / Elite,81.6,1,93.4,Rejected
+Joseph Williams,Male,State University,67.2,4,69.9,Rejected
+Ryan Bryant,Male,State University,81.3,3,94.4,Selected
+Michael Travis,Male,State University,84.3,0,82.2,Rejected
+Travis Vance,Male,State University,80.0,4,72.6,Selected
+Nathan Wagner,Male,State University,60.4,3,58.0,Rejected
+Joshua Merritt,Male,Community College,44.7,0,80.0,Rejected
+John Green,Male,Community College,69.7,1,69.3,Rejected
+Mark Cannon,Male,Community College,77.1,4,68.9,Rejected
+Lori Hill,Female,Community College,82.7,2,78.1,Rejected
+Dustin Nelson,Male,Ivy League / Elite,75.4,4,99.9,Selected
+Joshua Taylor,Male,Ivy League / Elite,57.4,2,65.4,Rejected
+Michael Mccarthy,Male,State University,81.4,5,92.1,Selected
+Jennifer Daniels,Female,Community College,80.8,2,72.3,Rejected
+Daniel Fisher,Male,Community College,66.4,3,83.1,Rejected
+Lauren Dominguez,Female,Ivy League / Elite,84.2,5,84.2,Selected
+Pamela James,Female,Community College,79.7,3,81.5,Rejected
+Guy Molina,Male,State University,50.3,2,89.7,Rejected
+Tiffany Barnes,Female,State University,67.8,3,84.5,Rejected
+Joshua Morrison,Male,State University,86.7,6,64.9,Selected
+Daniel Graham,Male,State University,81.4,3,66.6,Rejected
+George Shelton,Male,State University,77.1,3,89.8,Selected
+Christopher Mcdonald,Male,State University,79.3,2,76.9,Rejected
+Marcus Johnson,Male,State University,66.7,0,72.8,Rejected
+Kristy Johnson,Female,State University,47.2,0,82.6,Rejected
+Chad Murray,Male,Ivy League / Elite,77.5,3,92.3,Selected
+James Lewis,Male,State University,65.1,0,76.2,Rejected
+Philip Gray,Male,Community College,62.7,3,62.6,Rejected
+Ronnie King,Male,State University,75.2,5,75.2,Selected
+Alicia Ryan,Female,State University,67.2,2,61.2,Rejected
+Mr. Matthew Harrington DDS,Male,State University,49.7,4,80.1,Rejected
+Travis Gonzalez,Male,State University,83.1,2,76.4,Rejected
+Christian Martinez,Male,State University,64.6,2,66.1,Rejected
+Justin Robinson,Male,State University,61.3,2,90.2,Rejected
+Randall Jackson,Male,Ivy League / Elite,74.1,3,75.0,Rejected
+Nicole Wilson,Female,Community College,86.7,5,83.3,Selected
+Vincent Rodriguez,Male,Ivy League / Elite,59.2,4,83.8,Rejected
+Emily Byrd,Female,State University,76.6,4,75.6,Selected
+James Espinoza,Male,Ivy League / Elite,71.1,3,79.4,Rejected
+Michael Burton,Male,State University,100.0,2,55.4,Rejected
+Raymond Jefferson,Male,State University,80.8,5,79.3,Selected
+Barbara Riggs,Female,State University,94.1,2,65.6,Rejected
+Hannah Patterson,Female,Community College,58.9,6,69.0,Rejected
+Jonathan Peterson,Male,State University,50.2,2,56.6,Rejected
+Samantha Garcia,Female,State University,86.1,5,86.3,Selected
+Miss Sandra Zimmerman,Female,State University,69.0,1,65.4,Rejected
+Nicholas Sheppard,Male,Ivy League / Elite,74.8,6,95.5,Selected
+Robert Medina,Male,State University,70.2,2,86.1,Rejected
+Jeffrey Simon,Male,State University,57.8,1,69.1,Rejected
+Samuel Rivas,Male,Community College,94.7,2,71.0,Rejected
+Sierra Sanchez,Female,Ivy League / Elite,66.2,4,81.6,Rejected
+Lisa Gray,Female,State University,58.8,2,57.0,Rejected
+Samuel White,Male,Community College,67.7,4,68.2,Rejected
+Robert Peterson,Male,State University,53.5,0,80.3,Rejected
+Michael Hill,Male,Ivy League / Elite,55.5,6,100.0,Selected
+Tiffany Miller,Female,Community College,69.4,5,60.9,Rejected
+Katherine Chang,Female,State University,61.5,3,70.3,Rejected
+Maria Henry,Female,State University,72.7,4,84.6,Selected
+Anna Walker,Female,State University,50.1,7,65.8,Rejected
+Eric Perkins,Male,State University,75.5,5,94.6,Selected
+Joseph Coleman,Male,Ivy League / Elite,93.5,2,80.4,Selected
+Gary Warner,Male,State University,53.7,3,77.7,Rejected
+Danielle Martinez,Female,Community College,93.2,4,67.6,Selected
+Bryan Herrera,Male,Ivy League / Elite,72.0,5,80.3,Selected
+Cody Robinson,Male,Community College,57.9,5,71.0,Rejected
+Nathaniel Bray,Male,State University,54.6,1,81.4,Rejected
+Diane Garcia,Female,State University,63.3,0,100.0,Rejected
+Darren White,Male,State University,86.3,2,79.1,Rejected
+Joseph Hill,Male,Community College,89.9,3,70.0,Rejected
+Mr. Michael Martinez,Male,Community College,86.0,3,70.1,Rejected
+Katherine Salas,Female,State University,84.0,4,76.9,Selected
+Julie Alexander,Female,Ivy League / Elite,100.0,3,91.0,Selected
+Anthony Everett,Male,Ivy League / Elite,93.2,1,67.7,Rejected
+Samantha Morales,Female,Community College,61.3,2,66.1,Rejected
+Mark Brown,Male,Ivy League / Elite,90.3,4,86.7,Selected
+Justin Torres,Male,State University,77.1,2,82.0,Rejected
+Bailey Duran DDS,Female,Community College,86.2,4,82.2,Selected
+Darius Mills,Male,Ivy League / Elite,70.2,3,65.1,Rejected
+Jessica Dalton,Female,Ivy League / Elite,60.4,1,78.4,Rejected
+Elizabeth Oliver DDS,Female,Community College,72.4,4,66.9,Rejected
+Travis Clark,Male,State University,69.4,4,84.4,Selected
+Matthew Moore,Male,Ivy League / Elite,78.1,2,71.5,Rejected
+Benjamin Smith,Male,State University,62.8,5,73.1,Rejected
+Kirk Carter,Male,State University,53.5,3,75.8,Rejected
+Michael Warner,Male,State University,72.3,6,61.9,Selected
+Melissa Bradshaw,Female,State University,72.1,5,96.9,Selected
+Mario Guerrero,Male,State University,56.5,3,70.1,Rejected
+Jessica Stephens,Female,State University,82.1,4,77.4,Selected
+Terry Serrano,Male,State University,88.4,4,69.9,Selected
+Carol Parker,Female,State University,50.0,3,78.4,Rejected
+Keith Roberts,Male,Ivy League / Elite,68.6,1,92.7,Rejected
+Michael Lyons,Male,Ivy League / Elite,72.5,3,91.1,Selected
+Jonathan Snyder,Male,Ivy League / Elite,67.6,5,72.8,Selected
+Andrew Reynolds,Male,State University,68.7,1,82.3,Rejected
+Danielle Davis,Female,State University,66.1,4,76.9,Rejected
+Dr. Kenneth Sampson,Male,State University,69.3,5,74.3,Selected
+Mr. Derrick Williams DDS,Male,State University,95.8,6,84.3,Selected
+Matthew Moon,Male,Ivy League / Elite,86.3,1,83.4,Rejected
+Kevin Walters,Male,State University,72.8,3,77.0,Rejected
+Anna Bailey,Female,State University,74.4,2,70.6,Rejected
+Meagan Hodge,Female,State University,73.7,3,81.0,Rejected
+Melissa Roberts,Female,State University,54.7,3,61.0,Rejected
+Robert Pierce,Male,Ivy League / Elite,63.0,2,96.0,Rejected
+Ernest Morris,Male,State University,67.2,4,71.3,Rejected
+Mrs. Kayla Travis,Female,Community College,97.2,4,60.8,Selected
+Joshua Gutierrez,Male,State University,63.1,2,87.7,Rejected
+Heidi Avila,Female,State University,81.7,1,91.4,Rejected
+Olivia Harris,Female,Community College,74.3,3,62.7,Rejected
+Tanya Kim,Female,Ivy League / Elite,63.0,3,71.5,Rejected
+Bryan Dudley,Male,State University,53.7,1,72.8,Rejected
+David Moore,Male,State University,40.3,8,82.8,Selected
+Kristen Davis,Female,Ivy League / Elite,86.5,3,100.0,Selected
+Thomas Murray Jr.,Male,State University,74.6,4,82.2,Selected
+Jonathan Moran,Male,State University,69.1,3,84.8,Rejected
+Donald Davenport,Male,State University,63.1,1,60.3,Rejected
+Dana Arnold MD,Female,Ivy League / Elite,91.9,0,88.2,Rejected
+Katie Suarez,Female,State University,80.1,0,66.7,Rejected
+Donald Tyler,Male,Ivy League / Elite,71.1,1,98.2,Rejected
+Timothy Romero,Male,State University,70.7,3,77.3,Rejected
+Douglas Evans,Male,Community College,69.5,2,64.9,Rejected
+Yvonne Burns,Female,State University,64.8,6,80.6,Selected
+Joshua Reed,Male,State University,75.9,2,62.0,Rejected
+Joshua Gibson,Male,State University,90.9,1,62.4,Rejected
+Chelsea Terry,Female,Community College,68.8,0,74.8,Rejected
+Cynthia Rowe,Female,Ivy League / Elite,87.4,1,100.0,Selected
+Natasha Thornton,Female,State University,72.5,4,75.0,Rejected
+Jasmin Alvarado,Female,State University,52.5,3,71.4,Rejected
+William Simpson,Male,State University,98.3,0,69.4,Rejected
+Jonathan Lawrence,Male,Ivy League / Elite,79.0,0,78.8,Rejected
+Shelly Alexander,Female,Ivy League / Elite,85.4,4,82.0,Selected
+Joyce Bowen,Female,State University,76.0,7,61.4,Selected
+Mary Moore,Female,Ivy League / Elite,82.0,3,87.0,Selected
+Tracy Morgan,Female,Community College,65.0,4,71.7,Rejected
+Matthew Christian,Male,State University,71.0,1,65.4,Rejected
+Scott James,Male,State University,82.0,1,79.7,Rejected
+Michelle Malone,Female,State University,71.9,6,81.2,Selected
+Andrew Jones,Male,Ivy League / Elite,77.5,0,87.5,Rejected
+Tammie Bright,Female,State University,77.6,4,73.5,Rejected
+Jessica Garcia,Female,Ivy League / Elite,69.5,7,79.0,Selected
+Shelia Wallace,Female,State University,62.9,0,61.6,Rejected
+Steven Williams,Male,State University,52.8,0,85.1,Rejected
+Edward Brooks,Male,State University,76.9,0,88.8,Rejected
+Joseph Knight,Male,Ivy League / Elite,65.1,3,72.0,Rejected
+Christopher Miller,Male,Ivy League / Elite,82.6,3,66.1,Rejected
+Manuel Allen,Male,State University,95.8,6,76.0,Selected
+Charles Murray,Male,State University,81.4,2,89.1,Rejected
+David Smith,Male,State University,67.1,0,74.9,Rejected
+Steven Byrd,Male,State University,65.4,1,71.3,Rejected
+Jeremy Reed,Male,Ivy League / Elite,85.3,0,83.5,Rejected
+Mark Coleman,Male,State University,66.3,5,85.4,Selected
+Ryan Gonzalez,Male,State University,80.9,0,78.2,Rejected
+Karen Young,Female,State University,80.3,0,67.7,Rejected
+Kenneth Haney,Male,State University,59.7,4,63.5,Rejected
+William Barrett,Male,State University,69.0,5,64.4,Rejected
+Keith Jennings,Male,State University,57.6,2,79.6,Rejected
+Amber Obrien,Female,State University,89.5,0,69.0,Rejected
+Tanner Mitchell,Male,State University,74.7,1,80.2,Rejected
+Lawrence Gomez,Male,State University,78.8,3,59.1,Rejected
+Marc Byrd,Male,State University,81.5,2,77.5,Rejected
+Matthew Massey,Male,State University,44.3,3,85.8,Rejected
+Steven Lucas,Male,State University,83.9,3,80.0,Selected
+Jeremiah Riley,Male,State University,66.9,4,69.6,Rejected
+Brandon Phillips,Male,State University,78.5,4,82.8,Selected
+Casey Anderson,Female,Community College,79.6,3,47.6,Rejected
+Valerie Schmidt,Female,State University,71.1,4,83.5,Selected
+Ronald Scott,Male,State University,71.3,4,82.7,Selected
+John Drake,Male,State University,60.0,4,75.5,Rejected
+Gina Wilson,Female,Ivy League / Elite,100.0,3,79.1,Selected
+Mr. Vincent Dalton,Male,State University,75.2,0,86.0,Rejected
+William Coffey,Male,Ivy League / Elite,66.6,1,85.3,Rejected
+Jacob Gibbs,Male,State University,81.7,4,61.3,Rejected
+Joshua Gibson,Male,State University,72.8,2,65.0,Rejected
+Megan Richards,Female,State University,58.8,0,86.1,Rejected
+Teresa Rodriguez,Female,Community College,63.8,3,64.5,Rejected
+Allison Henson,Female,State University,83.2,1,87.4,Rejected
+Thomas Walker,Male,Ivy League / Elite,86.5,3,95.4,Selected
+Rodney Blankenship,Male,State University,85.8,2,61.7,Rejected
+Jason Taylor,Male,State University,68.5,2,69.9,Rejected
+Eric Vasquez,Male,Community College,52.0,3,63.9,Rejected
+Stephen Taylor,Male,Ivy League / Elite,98.2,2,75.1,Selected
+Meagan Paul,Female,State University,92.4,0,68.5,Rejected
+Jennifer Newton,Female,State University,51.0,3,84.5,Rejected
+Jason Garcia,Male,Community College,56.6,2,73.3,Rejected
+Jennifer Lynn,Female,Ivy League / Elite,79.0,3,83.5,Rejected
+Jacqueline Ramos,Female,State University,62.2,0,83.3,Rejected
+Scott Garcia,Male,Ivy League / Elite,94.3,5,65.8,Selected
+Joshua Levine,Male,State University,83.1,5,77.7,Selected
+James Lopez,Male,Community College,69.4,4,88.1,Selected
+Ryan Gibson,Male,State University,80.7,3,74.6,Rejected
+Martin Harper,Male,State University,68.1,0,73.9,Rejected
+Rachel Sanchez,Female,Community College,78.0,4,61.3,Rejected
+Justin Jones,Male,Community College,61.6,3,74.7,Rejected
+Daniel Robinson,Male,State University,74.3,2,58.9,Rejected
+Gary Hernandez,Male,State University,72.2,3,90.7,Selected
+Aaron Garrison,Male,Ivy League / Elite,95.5,2,84.1,Selected
+Beverly King,Female,State University,76.3,4,68.0,Rejected
+Mary Johnson,Female,State University,61.6,3,67.8,Rejected
+Richard Young,Male,State University,91.4,5,79.1,Selected
+Christopher Williams,Male,State University,77.4,3,82.4,Rejected
+Joseph Reese,Male,Ivy League / Elite,97.0,4,83.0,Selected
+Richard Palmer,Male,Ivy League / Elite,100.0,4,79.4,Selected
+Jonathan Dougherty,Male,State University,51.4,4,83.1,Rejected
+Richard Camacho,Male,State University,68.8,3,89.5,Rejected
+Jimmy Maynard,Male,State University,82.0,1,58.8,Rejected
+John Morales,Male,State University,47.6,2,83.6,Rejected
+John Browning,Male,State University,63.7,3,82.9,Rejected
+Bobby Franklin,Male,Ivy League / Elite,79.8,2,95.9,Selected
+Donald Schultz,Male,State University,63.6,2,80.4,Rejected
+Frederick Vang,Male,Community College,59.5,4,81.2,Rejected
+Jesse Jacobs,Male,Ivy League / Elite,67.9,1,82.5,Rejected
+Mia Farrell,Female,State University,52.1,0,61.8,Rejected
+Patricia Le,Female,Community College,64.0,5,60.0,Rejected
+Jesse Perez,Male,State University,55.6,3,66.5,Rejected
+Jesse Perry,Male,State University,55.2,3,79.2,Rejected
+Jeffery Ortega,Male,State University,82.2,4,81.1,Selected
+Christian Leblanc,Male,State University,58.8,4,65.1,Rejected
+Ronald Davis,Male,State University,78.4,2,72.0,Rejected
+Nancy Cain,Female,State University,73.3,6,72.2,Selected
+Kevin Hoffman,Male,State University,77.1,3,71.9,Rejected
+Bryan Gomez,Male,State University,55.0,4,73.5,Rejected
+Paul Parrish,Male,Ivy League / Elite,72.9,5,100.0,Selected
+Warren Burke,Male,State University,88.1,0,85.9,Rejected
+Kenneth Lewis,Male,Ivy League / Elite,92.7,0,81.5,Rejected
+Courtney Rodriguez,Female,Community College,78.6,7,74.0,Selected
+Jacob Farmer,Male,Ivy League / Elite,69.0,1,77.4,Rejected
+Renee Bruce,Female,State University,66.3,0,73.7,Rejected
+Dr. Lisa Day,Female,State University,74.1,2,74.5,Rejected
+Timothy Gallegos,Male,State University,71.5,1,95.3,Rejected
+Christopher Park,Male,State University,83.5,4,92.6,Selected
+Gerald Smith,Male,State University,76.3,4,54.1,Rejected
+Keith Morales,Male,State University,69.8,0,73.0,Rejected
+Mark Johnson,Male,Community College,70.9,5,69.7,Selected
+Cindy Barnes,Female,Community College,63.6,3,72.1,Rejected
+Jacob Griffith,Male,Ivy League / Elite,76.7,5,86.5,Selected
+Keith Miller,Male,Ivy League / Elite,80.5,2,83.6,Rejected
+Brooke Williamson,Female,State University,68.5,6,64.2,Selected
+Dillon Stanley,Male,State University,63.7,2,73.2,Rejected
+Jessica Nelson,Female,State University,93.1,2,87.9,Selected
+Brian Jordan,Male,Ivy League / Elite,91.6,4,70.1,Selected
+Michael Tucker,Male,State University,75.2,6,89.0,Selected
+Amber Foster,Female,Community College,77.0,3,85.6,Rejected
+Adam Turner,Male,Ivy League / Elite,92.9,6,74.3,Selected
+Breanna Scott,Female,State University,78.3,4,79.6,Selected
+Aimee Burgess,Female,Community College,78.5,6,79.3,Selected
+Jamie Padilla,Female,State University,75.7,1,79.0,Rejected
+Roy Drake,Male,State University,60.1,5,68.7,Rejected
+Scott Williams,Male,Ivy League / Elite,67.9,2,67.4,Rejected
+Tammy Atkins,Female,Community College,55.5,3,73.7,Rejected
+Laura Mckinney,Female,State University,66.2,4,85.3,Rejected
+Ashley Smith,Female,Community College,83.1,1,72.5,Rejected
+Robert Montgomery,Male,State University,71.4,1,66.0,Rejected
+Thomas Davis,Male,Ivy League / Elite,67.8,4,66.2,Rejected
+Dana Chapman,Female,State University,79.4,4,81.3,Selected
+James Collins,Male,State University,60.6,6,70.4,Selected
+Felicia Jackson,Female,State University,71.2,4,59.4,Rejected
+Ashley Hicks,Female,Ivy League / Elite,65.2,5,88.2,Selected
+Gregory Luna,Male,Community College,68.5,4,74.7,Rejected
+Robin Young,Female,State University,63.5,3,86.6,Rejected
+Christina Morrison,Female,Community College,62.3,1,69.1,Rejected
+Matthew Thompson,Male,Ivy League / Elite,94.6,2,63.4,Rejected
+Kathleen Webster,Female,State University,79.7,4,88.3,Selected
+Jerry Glass,Male,State University,84.9,7,84.7,Selected
+Madison Weber,Female,State University,76.0,3,75.2,Rejected
+Mark Hernandez,Male,State University,93.2,2,61.5,Rejected
+Jessica Turner,Female,State University,65.4,4,54.0,Rejected
+Anthony Romero,Male,Ivy League / Elite,93.4,4,88.4,Selected
+Jesse Brown,Male,Ivy League / Elite,99.2,7,76.4,Selected
+Angela Lin,Female,State University,78.7,3,75.0,Rejected
+Lucas Hunter,Male,State University,56.7,5,88.4,Selected
+Julian Conner,Male,State University,76.8,1,62.9,Rejected
+Joanna Pacheco,Female,Community College,76.5,7,66.2,Selected
+Erica Alvarez,Female,Community College,78.3,6,80.0,Selected
+Antonio Garcia,Male,State University,78.0,3,80.6,Rejected
+Greg Klein,Male,State University,58.8,2,58.5,Rejected
+Christopher Wright,Male,Community College,78.5,7,87.2,Selected
+Jeffrey Mills,Male,State University,62.3,3,84.3,Rejected
+Jake Campbell,Male,Community College,75.1,1,77.7,Rejected
+Gina Harper,Female,Community College,70.0,3,62.5,Rejected
+Maria Jones,Female,Community College,84.0,4,79.7,Selected
+Meghan Mitchell,Female,Community College,86.3,3,69.7,Rejected
+Mary Escobar,Female,Ivy League / Elite,74.2,3,74.0,Rejected
+Gavin Aguilar,Male,Ivy League / Elite,72.1,2,64.2,Rejected
+Gregory Ponce,Male,Ivy League / Elite,77.2,2,79.1,Rejected
+James Larson,Male,Community College,51.6,2,65.4,Rejected
+Eric Bennett,Male,State University,84.6,2,71.5,Rejected
+Robert Santiago,Male,State University,88.4,1,71.2,Rejected
+Nancy Jennings,Female,State University,76.0,3,66.5,Rejected
+Matthew Henderson,Male,State University,88.2,4,77.4,Selected
+Jack White,Male,State University,59.2,4,65.0,Rejected
+Travis Tucker,Male,State University,61.8,3,56.1,Rejected
+Brenda Jones,Female,Community College,67.3,3,65.1,Rejected
+Brian Wise,Male,State University,78.5,6,86.3,Selected
+Stephen Johnson,Male,Community College,80.2,4,52.2,Rejected
+Ralph Anderson,Male,State University,57.8,2,92.0,Rejected
+Carla Guerra,Female,State University,71.1,5,74.4,Selected
+Robert Martin,Male,State University,68.7,5,69.7,Selected
+Jennifer Rhodes,Female,Community College,48.4,3,68.5,Rejected
+Jill Mitchell,Female,Community College,75.1,0,68.0,Rejected
+Jerry Ferguson,Male,State University,100.0,4,59.8,Selected
+Robert Harrison,Male,State University,61.3,4,62.1,Rejected
+Holly Valentine,Female,State University,75.5,2,69.6,Rejected
+Joel Campbell MD,Male,State University,76.6,3,75.7,Rejected
+Vincent Montoya,Male,Ivy League / Elite,85.3,5,76.4,Selected
+Brenda Wright,Female,State University,73.4,1,79.0,Rejected
+Shelly Spencer,Female,State University,77.6,1,81.8,Rejected
+Sarah Rosales,Female,State University,67.7,4,78.0,Rejected
+Pamela Nelson,Female,State University,76.5,2,79.6,Rejected
+Charles Kim,Male,State University,63.4,2,83.3,Rejected
+Daniel Hayes,Male,Ivy League / Elite,79.7,1,74.8,Rejected
+Alyssa Brown,Female,State University,71.2,5,90.9,Selected
+David Vang,Male,Ivy League / Elite,77.5,0,76.5,Rejected
+Alfred Galvan,Male,State University,86.1,2,69.0,Rejected
+Marie Moody,Female,State University,58.7,5,77.2,Rejected
+Dustin Gallegos,Male,State University,64.2,3,75.6,Rejected
+Charles Thornton,Male,State University,65.9,2,77.9,Rejected
+Aaron Miller,Male,Ivy League / Elite,61.4,2,84.0,Rejected
+Ruben Dunn,Male,State University,61.3,2,63.7,Rejected
+Joseph Rodriguez,Male,State University,89.1,2,78.3,Rejected
+Eric Williams,Male,Ivy League / Elite,74.6,4,100.0,Selected
+Riley Bryant,Male,Community College,64.3,3,86.8,Rejected
+Taylor Carlson,Male,Ivy League / Elite,81.7,3,80.9,Selected
+Kaylee Allen,Female,Community College,78.1,3,78.5,Rejected
+Jeffrey Mendez,Male,State University,54.5,5,70.4,Rejected
+Jennifer Beck,Female,Community College,76.0,4,61.9,Rejected
+William Jones,Male,Community College,60.2,5,86.2,Selected
+Jordan Mcneil,Male,Community College,58.9,0,70.4,Rejected
+Jeanette Harrison,Female,State University,62.4,5,70.3,Rejected
+William King,Male,Community College,66.4,1,60.5,Rejected
+Rachel Cooper,Female,Community College,75.6,3,41.6,Rejected
+Mark Ingram,Male,Ivy League / Elite,100.0,2,89.7,Selected
+Evelyn Williams,Female,State University,81.8,1,92.5,Rejected
+Robert Thompson,Male,State University,68.8,4,64.0,Rejected
+Julie Dominguez,Female,State University,83.1,2,64.4,Rejected
+Robert Brown,Male,State University,74.8,6,74.4,Selected
+Judith Carter,Female,State University,49.8,0,94.9,Rejected
+Curtis Williams,Male,Ivy League / Elite,81.5,1,78.7,Rejected
+Jose Hays,Male,State University,80.6,4,77.0,Selected
+Dawn Mullins,Female,Community College,94.9,5,69.3,Selected
+Howard Norman,Male,State University,82.3,3,75.9,Rejected
+Gary Martinez,Male,State University,59.7,3,76.5,Rejected
+Stacy Paul,Female,Community College,63.8,3,69.4,Rejected
+James Beltran,Male,State University,51.1,4,74.3,Rejected
+Jonathan Glass,Male,State University,77.4,2,93.9,Rejected
+Robert Acosta,Male,Ivy League / Elite,63.0,4,62.8,Rejected
+Lindsey Short,Female,Community College,84.3,3,84.8,Selected
+Frank Miller,Male,State University,85.8,2,64.2,Rejected
+Eric Morrison,Male,Ivy League / Elite,72.4,0,53.2,Rejected
+Melissa Bell,Female,Community College,65.3,0,76.3,Rejected
+Sheila Gomez,Female,State University,77.5,0,71.1,Rejected
+Mr. William Gould Jr.,Male,Community College,76.0,7,71.2,Selected
+Jack Owen,Male,State University,65.8,4,65.2,Rejected
+Troy Thomas,Male,Community College,92.7,4,70.2,Selected
+Richard Johnson,Male,Ivy League / Elite,71.5,4,83.1,Selected
+Richard Diaz,Male,State University,69.4,2,53.1,Rejected
+Keith Jacobs,Male,State University,85.7,4,87.0,Selected
+Travis Watson,Male,State University,66.4,2,64.3,Rejected
+Kenneth Moreno,Male,State University,50.6,2,77.0,Rejected
+Marie Wright,Female,State University,67.5,2,63.0,Rejected
+Nancy Porter,Female,Community College,68.5,0,74.7,Rejected
+Kristina Green,Female,State University,76.2,2,88.7,Rejected
+Jeremy Davies,Male,State University,89.2,3,91.3,Selected
+Thomas Henry,Male,State University,91.5,2,72.0,Rejected
+Sarah Hayes,Female,Community College,75.3,5,72.9,Selected
+Jill Miller,Female,State University,80.8,3,81.5,Rejected
+Ryan Flores,Male,State University,66.3,0,76.4,Rejected
+Ana Daniels,Female,State University,69.3,3,90.1,Rejected
+Sarah Joseph,Female,State University,63.7,5,80.8,Selected
+Marcia Leon,Female,Community College,88.2,2,72.2,Rejected
+Barbara Harris,Female,State University,68.0,2,78.6,Rejected
+Richard Johnson,Male,Community College,77.3,1,64.3,Rejected
+Jacob Lara,Male,State University,59.7,1,72.2,Rejected
+Lisa Miller,Female,State University,90.0,2,66.6,Rejected
+Yvonne Higgins,Female,Ivy League / Elite,77.3,5,98.1,Selected
+Randy Morrow,Male,Ivy League / Elite,75.5,2,75.6,Rejected
+William Day,Male,Ivy League / Elite,78.7,0,94.7,Rejected
+Michael Cooper,Male,Ivy League / Elite,77.8,3,74.7,Rejected
+Penny Bowman,Female,Ivy League / Elite,92.1,0,96.4,Rejected
+Tracy Reynolds,Female,Community College,51.2,4,61.3,Rejected
+Anthony Martinez,Male,Community College,83.2,5,50.2,Rejected
+Christopher Morris,Male,Ivy League / Elite,94.5,2,75.6,Rejected
+Gregory Everett,Male,Ivy League / Elite,87.9,3,72.5,Selected
+Sarah King,Female,State University,80.1,1,74.9,Rejected
+Krista Martinez,Female,State University,64.1,1,58.7,Rejected
+Kim Shaw,Female,State University,75.0,1,81.1,Rejected
+Todd Moore,Male,Ivy League / Elite,88.6,2,74.6,Rejected
+Nathan Jacobs,Male,State University,92.4,1,90.7,Rejected
+Justin Bryan,Male,Ivy League / Elite,69.7,0,89.3,Rejected
+Angel May,Male,Community College,68.2,4,66.8,Rejected
+Marilyn Wang,Female,State University,54.9,5,80.2,Rejected
+Margaret Jimenez,Female,State University,67.5,5,79.8,Selected
+Donna Frye,Female,State University,63.6,1,83.9,Rejected
+Regina Cohen,Female,Ivy League / Elite,87.3,5,92.0,Selected
+Benjamin Brown,Male,State University,74.7,8,68.8,Selected
+Kari Harris,Female,State University,50.0,1,86.4,Rejected
+Emily Higgins,Female,State University,74.5,3,79.3,Rejected
+Shannon Hester,Female,Community College,89.6,4,78.1,Selected
+Jacob Hoffman,Male,State University,63.3,5,79.5,Selected
+John Adams,Male,State University,82.8,6,91.2,Selected
+Brent Roberts,Male,State University,83.0,0,69.8,Rejected
+Lisa Wright,Female,Community College,80.7,1,77.7,Rejected
+Christopher Murphy,Male,State University,56.2,4,65.1,Rejected
+Erik Hines,Male,State University,68.6,0,72.9,Rejected
+Kayla Jimenez,Female,State University,78.4,1,94.1,Rejected
+Alexander Landry,Male,State University,65.4,1,77.2,Rejected
+Vincent Lewis,Male,Ivy League / Elite,80.9,3,90.9,Selected
+Anthony Simpson,Male,State University,62.7,3,77.0,Rejected
+Martha Ruiz,Female,State University,62.4,3,82.7,Rejected
+Ryan Jordan,Male,Ivy League / Elite,68.0,5,100.0,Selected
+Monica Gallagher,Female,Community College,74.9,4,82.1,Selected
+James Hudson,Male,State University,70.6,4,81.5,Selected
+Kristen Jones,Female,State University,58.3,3,75.5,Rejected
+Phillip Ramirez,Male,State University,86.0,1,55.3,Rejected
+Michael Wilson DVM,Male,Ivy League / Elite,88.5,3,88.0,Selected
+Rebecca Morgan,Female,State University,90.4,2,71.2,Rejected
+Paul Gonzalez,Male,Ivy League / Elite,83.3,1,95.1,Rejected
+Jonathan Williams,Male,State University,72.3,2,81.1,Rejected
+Gary Wells,Male,Ivy League / Elite,100.0,0,90.3,Rejected
+Lisa Robertson,Female,State University,55.3,2,72.2,Rejected
+Louis Martin,Male,Ivy League / Elite,72.6,6,56.6,Selected
+Nancy Evans MD,Female,Community College,65.3,5,63.3,Rejected
+Joseph Erickson,Male,State University,52.4,1,86.4,Rejected
+Robert Richardson,Male,Ivy League / Elite,69.0,4,98.8,Selected
+William Silva,Male,State University,80.4,4,78.6,Selected
+Nicholas Watts,Male,State University,80.9,6,70.4,Selected
+John Coffey,Male,State University,51.1,2,79.2,Rejected
+Ricardo Lane,Male,Ivy League / Elite,100.0,2,73.0,Selected
+Kevin Jackson,Male,Ivy League / Elite,81.0,3,72.5,Rejected
+Lisa Randall,Female,State University,79.9,0,94.7,Rejected
+Michael Johnson,Male,State University,71.8,5,59.5,Rejected
+Brian Smith,Male,Community College,76.1,6,63.5,Selected
+Brittany Vaughn,Female,State University,88.4,0,73.5,Rejected
+Reginald Knapp,Male,State University,47.7,5,71.3,Rejected
+Noah Brown,Male,State University,70.1,1,87.3,Rejected
+Christine Nguyen,Female,State University,89.1,2,52.4,Rejected
+Kelly Edwards,Female,Community College,57.9,2,68.1,Rejected
+Thomas Peterson,Male,State University,70.9,4,73.2,Rejected
+Patricia Le,Female,State University,66.1,4,65.2,Rejected
+Michael Bishop,Male,Community College,47.2,2,62.2,Rejected
+David Grant,Male,Community College,69.1,0,57.9,Rejected
+William Evans,Male,State University,95.9,1,76.7,Rejected
+Christine Bush,Female,Community College,78.1,3,59.5,Rejected
+Gregory Peck,Male,State University,50.4,6,66.7,Rejected
+Donald Martinez,Male,State University,67.7,4,67.7,Rejected
+James Baird,Male,Ivy League / Elite,81.0,2,91.5,Rejected
+Troy Ballard,Male,State University,75.1,5,69.4,Selected
+Dwayne Klein,Male,State University,73.5,1,73.0,Rejected
+Jeremy Scott,Male,State University,81.6,3,74.2,Rejected
+Dale Ryan,Male,State University,62.9,3,87.0,Rejected
+Michael Taylor,Male,Ivy League / Elite,83.8,8,77.5,Selected
+Kevin Sanchez,Male,State University,63.5,5,80.6,Selected
+Joseph Little,Male,Ivy League / Elite,70.2,4,56.2,Rejected
+Jason Love,Male,State University,74.2,4,88.8,Selected
+Randy Smith,Male,Community College,71.0,2,67.5,Rejected
+Tanya Russell,Female,State University,56.8,6,76.3,Selected
+Shawn Woods,Male,Community College,64.9,0,66.2,Rejected
+Tracey Morris,Female,State University,75.9,5,86.4,Selected
+Terry Davis,Male,State University,65.3,4,86.0,Selected
+Joseph Sharp,Male,State University,53.7,6,75.5,Selected
+Thomas Thompson,Male,State University,78.9,4,62.2,Rejected
+Christopher Gillespie,Male,State University,88.8,4,59.6,Selected
+Mr. Jon Zuniga DVM,Male,State University,73.6,3,67.0,Rejected
+Shawn Smith,Male,Ivy League / Elite,73.8,2,76.1,Rejected
+Brian Bird,Male,State University,70.4,0,95.5,Rejected
+William Daniels,Male,State University,69.6,3,67.7,Rejected
+Todd Rosales,Male,Ivy League / Elite,80.1,6,100.0,Selected
+Corey Rodriguez,Male,Community College,78.6,3,92.5,Selected
+Jimmy Scott,Male,Ivy League / Elite,87.2,2,79.3,Rejected
+Norman Gibbs,Male,Ivy League / Elite,60.3,3,84.7,Rejected
+Nicole Thompson,Female,State University,73.6,5,53.9,Rejected
+Steven Wilcox,Male,Ivy League / Elite,66.6,7,55.1,Selected
+Angie Caldwell,Female,Ivy League / Elite,76.1,1,76.3,Rejected
+Charles Morris,Male,Ivy League / Elite,81.3,4,72.3,Selected
+Dean Young,Male,State University,85.6,2,72.9,Rejected
+Tiffany Turner,Female,State University,79.4,5,61.0,Selected
+Alexandra Valdez,Female,Community College,100.0,3,67.9,Selected
+Antonio Wilson,Male,State University,78.0,2,70.0,Rejected
+Jared Shaw,Male,State University,79.1,4,74.4,Selected
+Michele Collins,Female,State University,64.8,5,69.5,Rejected
+Sydney Phillips,Female,State University,91.2,4,79.8,Selected
+Daniel Anderson,Male,Community College,73.9,2,69.0,Rejected
+Paul Obrien,Male,State University,59.2,4,50.1,Rejected
+Joshua Ruiz,Male,Community College,76.8,1,61.5,Rejected
+Matthew Robinson,Male,Ivy League / Elite,76.6,2,69.8,Rejected
+Paul Marks,Male,State University,40.5,2,86.4,Rejected
+Jeremy Padilla,Male,State University,51.2,3,62.6,Rejected
+Justin Brown,Male,State University,55.2,4,87.0,Rejected
+Kathy Armstrong,Female,State University,64.5,5,64.2,Rejected
+Garrett Meyer,Male,State University,79.9,5,72.4,Selected
+Daniel Aguilar,Male,Ivy League / Elite,100.0,2,65.8,Rejected
+Katrina Stokes,Female,State University,49.8,3,75.0,Rejected
+Kayla Bryant,Female,State University,69.3,4,76.2,Rejected
+Joel Roman,Male,Ivy League / Elite,69.3,3,90.0,Rejected
+James Velasquez,Male,State University,97.4,5,75.5,Selected
+Kenneth Williams,Male,Ivy League / Elite,91.2,3,94.0,Selected
+Arthur Mcknight,Male,State University,76.7,4,76.9,Selected
+Benjamin Peck,Male,State University,65.1,1,68.7,Rejected
+Jason Mack,Male,State University,63.0,7,88.3,Selected
+William Brewer,Male,State University,63.3,3,60.1,Rejected
+Willie Reyes,Male,State University,73.1,5,71.0,Selected
+Terry Bennett,Male,Ivy League / Elite,96.0,5,80.4,Selected
+Matthew Ryan,Male,State University,84.0,6,86.5,Selected
+Gregory White,Male,Community College,79.8,2,68.7,Rejected
+Joseph Luna,Male,Ivy League / Elite,85.4,7,81.5,Selected
+Aaron Johnson,Male,Ivy League / Elite,89.5,5,73.4,Selected
+Megan Stephens,Female,State University,51.7,3,76.1,Rejected
+Rodney Wright,Male,Community College,84.1,2,79.1,Rejected
+Desiree Pineda,Female,Community College,84.7,1,68.7,Rejected
+Ashley Pacheco,Female,State University,78.4,6,75.2,Selected
+Ralph Stephenson,Male,State University,54.5,7,65.5,Selected
+Daniel Garcia,Male,State University,66.0,0,66.7,Rejected
+Kyle Warner,Male,State University,64.3,3,82.4,Rejected
+Patrick Morales,Male,State University,53.9,1,74.8,Rejected
+Claudia Shields,Female,State University,63.3,1,63.9,Rejected
+Jonathan Roberts,Male,State University,67.5,4,69.4,Rejected
+Nicholas Flores,Male,State University,77.1,3,78.6,Rejected
+Michael Flores,Male,State University,98.6,3,64.5,Selected
+Charles Keller,Male,State University,72.3,4,78.1,Selected
+Eric Brown,Male,Ivy League / Elite,78.5,4,93.5,Selected
+Shawn Buck,Male,State University,81.3,3,78.4,Rejected
+Jeffery Simpson,Male,Community College,76.8,2,80.0,Rejected
+Dr. Megan Floyd,Female,State University,85.8,3,75.7,Rejected
+Jason Hernandez,Male,Ivy League / Elite,77.6,7,78.0,Selected
+Paul Wells,Male,Ivy League / Elite,92.6,3,93.8,Selected
+Eric Zimmerman,Male,Ivy League / Elite,81.1,7,72.9,Selected
+Thomas Hart,Male,State University,99.5,4,83.4,Selected
+Mr. Cesar Sanchez,Male,Ivy League / Elite,85.7,5,71.7,Selected
+Matthew Nielsen,Male,Community College,88.9,2,74.8,Rejected
+Brandon Hardy,Male,State University,72.9,3,61.1,Rejected
+Derrick Nunez,Male,Ivy League / Elite,89.5,3,84.6,Selected
+Shane Lopez,Male,State University,59.7,2,75.2,Rejected
+Misty Hansen,Female,Community College,68.8,0,58.3,Rejected
+Sean Cook,Male,State University,39.3,5,75.2,Rejected
+Adrian Giles,Male,State University,84.6,3,73.9,Rejected
+Mr. Zachary Mendoza,Male,State University,53.4,6,89.0,Selected
+Lindsey Harris,Female,State University,67.4,4,85.7,Selected
+Juan Rowe,Male,State University,52.1,2,75.8,Rejected
+Joseph Howard,Male,State University,91.8,5,73.8,Selected
+Kayla Crawford,Female,State University,55.1,2,79.8,Rejected
+Vicki Harrison,Female,State University,80.2,4,76.7,Selected
+Suzanne Wood,Female,State University,72.4,1,62.7,Rejected
+Justin Walker,Male,State University,54.1,2,78.3,Rejected
+Dean Donovan,Male,Ivy League / Elite,78.7,2,75.8,Rejected
+Jennifer Hernandez,Female,State University,85.1,3,95.4,Selected
+Jamie Whitaker,Female,Community College,69.5,6,71.4,Selected
+Matthew Cohen,Male,Community College,75.6,1,79.7,Rejected
+Roberto Levy,Male,State University,75.5,2,60.8,Rejected
+John Jackson,Male,State University,65.8,5,70.0,Rejected
+Caroline Cortez,Female,Ivy League / Elite,67.2,1,83.9,Rejected
+Thomas Weaver,Male,State University,56.1,0,62.7,Rejected
+Anthony Johnson,Male,Community College,71.8,5,64.3,Rejected
+Tony Barnett,Male,Community College,68.3,3,68.2,Rejected
+Jason Kirby,Male,State University,61.0,2,71.2,Rejected
+Michael Smith,Male,State University,75.5,3,88.0,Selected
+Jake Williamson,Male,Ivy League / Elite,77.6,3,97.2,Selected
+Luis Webb,Male,Community College,72.8,3,73.6,Rejected
+Aaron Arnold,Male,State University,61.8,0,84.3,Rejected
+Joseph Hill,Male,Ivy League / Elite,53.2,1,86.6,Rejected
+Alan Li DDS,Male,State University,89.4,3,82.9,Selected
+Theodore Rodriguez,Male,Ivy League / Elite,95.6,1,82.5,Rejected
+Chase Lee,Male,State University,66.0,3,73.7,Rejected
+Robert Adams,Male,Ivy League / Elite,84.9,2,69.7,Rejected
+Jake Sullivan,Male,Community College,76.8,2,84.6,Rejected
+William Perez,Male,State University,65.2,1,79.9,Rejected
+Ryan Valdez,Male,Ivy League / Elite,83.3,5,69.0,Selected
+Olivia Davis,Female,State University,58.7,1,71.0,Rejected
+Juan Brown,Male,State University,66.7,5,72.2,Selected
+Carolyn Porter,Female,State University,68.0,5,61.3,Rejected
+Richard Knight,Male,State University,60.2,6,70.1,Selected
+Anna Rice,Female,State University,78.4,2,79.9,Rejected
+Christine Parrish,Female,State University,68.1,5,63.9,Rejected
+John Williams,Male,Ivy League / Elite,93.8,0,87.4,Rejected
+Timothy Lam,Male,State University,65.6,2,64.4,Rejected
+Andrew Mcfarland,Male,State University,71.5,4,91.5,Selected
+Tyrone Matthews,Male,Community College,90.5,8,66.8,Selected
+Michelle Sanders,Female,Community College,66.9,1,56.7,Rejected
+Carla Allen,Female,Community College,76.6,3,77.7,Rejected
+Jasmine Mosley,Female,Community College,90.1,0,69.5,Rejected
+Perry Taylor,Male,State University,70.3,5,78.0,Selected
+Misty Mason DVM,Female,State University,70.8,0,73.4,Rejected
+Jessica Roberson,Female,Community College,90.2,4,66.1,Selected
+Randy Friedman,Male,State University,84.8,2,85.0,Rejected
+Raymond Johnson,Male,State University,73.9,4,82.8,Selected
+Wendy Henry,Female,Community College,79.5,2,70.2,Rejected
+Todd Reynolds,Male,State University,65.3,7,67.6,Selected
+Mary Miller,Female,State University,87.5,4,67.6,Selected
+Robert Marquez,Male,State University,64.1,1,73.8,Rejected
+Brittany Dawson,Female,State University,92.0,3,80.5,Selected
+Patrick Stewart,Male,State University,72.7,5,64.9,Rejected
+Aaron Parker,Male,State University,82.2,2,71.6,Rejected
+Derrick Anderson,Male,Ivy League / Elite,89.0,1,83.3,Rejected
+Joann Peters,Female,State University,86.6,4,90.3,Selected
+Allison Gomez,Female,Community College,49.7,5,65.8,Rejected
+Kyle Nguyen,Male,Community College,74.4,2,63.8,Rejected
+Edgar Hughes,Male,State University,52.3,6,86.6,Selected
+Stephanie Stein,Female,State University,71.0,4,79.3,Rejected
+Kenneth Jackson MD,Male,Ivy League / Elite,65.5,2,84.6,Rejected
+Elizabeth Snyder,Female,State University,94.1,2,68.9,Rejected
+Jeffrey Fisher,Male,Ivy League / Elite,87.6,0,85.6,Rejected
+Billy King,Male,State University,82.6,3,82.7,Selected
+Mario Wheeler,Male,State University,67.6,2,99.8,Rejected
+Brian Torres,Male,State University,87.0,2,64.0,Rejected
+Evelyn Oliver,Female,State University,72.9,3,62.3,Rejected
+Gary Cook,Male,State University,76.6,6,91.4,Selected
+Scott Mccann,Male,State University,47.3,4,60.9,Rejected
+Erica Valentine,Female,Community College,73.1,7,63.8,Selected
+Ernest Oconnell,Male,State University,77.3,0,80.5,Rejected
+Mr. Michael Henry,Male,Community College,69.7,0,71.8,Rejected
+Dana Bennett,Female,Community College,71.6,2,77.5,Rejected
+James Wilson,Male,Ivy League / Elite,77.2,6,85.1,Selected
+Kevin Gardner,Male,State University,100.0,4,74.0,Selected
+Krista Benton,Female,State University,52.9,2,81.3,Rejected
+Michael Gonzales,Male,Ivy League / Elite,98.9,3,82.7,Selected
+Michael Fuentes,Male,Ivy League / Elite,71.9,3,75.7,Rejected
+Jason Porter,Male,State University,65.7,0,74.4,Rejected
+Dana Hopkins,Female,State University,65.4,0,82.8,Rejected
+Richard Jones,Male,State University,68.7,1,77.2,Rejected
+John Morales MD,Male,Community College,68.1,6,79.5,Selected
+Melissa Stephens,Female,State University,63.3,7,91.2,Selected
+Heather Woodard,Female,State University,70.6,4,72.8,Rejected
+Mark Miller,Male,Ivy League / Elite,90.5,3,90.8,Selected
+Matthew Kelly,Male,Ivy League / Elite,100.0,5,77.3,Selected
+Andrew Terrell,Male,State University,60.7,3,88.7,Rejected
+Jennifer Goodwin,Female,Ivy League / Elite,60.4,4,83.4,Rejected
+Mr. Adam Green,Male,State University,74.6,1,70.0,Rejected
+Joseph Carpenter,Male,Community College,89.1,4,74.3,Selected
+Jill Myers,Female,State University,67.2,1,82.6,Rejected
+Leah Mason,Female,State University,85.5,4,68.0,Selected
+Alexander Garcia,Male,State University,78.8,0,74.1,Rejected
+Tonya Wilson,Female,State University,69.0,2,71.9,Rejected
+Charles Collins,Male,Ivy League / Elite,75.1,6,77.9,Selected
+Christine Webb,Female,Ivy League / Elite,80.6,6,79.3,Selected
+Jeffrey Horton,Male,Community College,73.0,1,69.4,Rejected
+Eric Patrick,Male,State University,81.1,1,89.2,Rejected
+Sarah Wong,Female,Community College,61.1,1,81.7,Rejected
+Christopher Riggs,Male,Community College,81.2,4,65.6,Rejected
+Christopher Moore,Male,State University,70.1,2,65.2,Rejected
+Tina Hall,Female,Community College,58.9,6,80.4,Selected
+Cathy Davidson,Female,Community College,86.5,2,82.0,Rejected
+Allen Mendez,Male,Ivy League / Elite,77.8,5,73.7,Selected
+Leslie Price,Female,State University,59.0,7,66.6,Selected
+Daniel Goodwin,Male,Ivy League / Elite,89.0,3,62.6,Rejected
+Arthur Garcia,Male,Ivy League / Elite,66.1,0,82.7,Rejected
+Cody Nguyen,Male,Community College,64.4,4,60.5,Rejected
+Dennis Huffman,Male,State University,92.4,2,76.4,Rejected
+Margaret Harper,Female,Ivy League / Elite,48.6,5,94.2,Selected
+Kevin Bailey,Male,Ivy League / Elite,81.8,3,82.2,Selected
+Luis Cervantes,Male,Community College,39.4,4,87.9,Rejected
+Edward Mendez,Male,State University,70.4,5,51.4,Rejected
+Brandi Wilson,Female,Community College,65.8,2,73.9,Rejected
+Clayton Steele,Male,Community College,62.8,3,49.5,Rejected
+Jason Taylor,Male,Community College,87.8,4,66.7,Selected
+Cody Reid,Male,State University,49.7,3,86.5,Rejected
+Matthew Cooke,Male,State University,70.8,2,72.5,Rejected
+John Taylor,Male,State University,70.2,6,69.0,Selected
+Joanne Brown,Female,State University,66.1,3,79.9,Rejected
+Alexandra Taylor,Female,Community College,56.0,3,70.5,Rejected
+Victor Wagner,Male,State University,83.7,4,69.9,Selected
+Melinda Perry,Female,State University,70.8,1,61.9,Rejected
+Katherine Miller,Female,Ivy League / Elite,100.0,4,84.1,Selected
+Paige Carter,Female,State University,51.5,8,83.9,Selected
+Joshua Jackson,Male,Community College,68.9,5,55.8,Rejected
+Patrick Cannon,Male,Community College,72.1,4,54.1,Rejected
+Brian Wilson,Male,Community College,67.5,3,60.6,Rejected
+Rodney Richardson,Male,State University,63.9,0,67.1,Rejected
+Amanda Ball,Female,State University,73.8,4,46.5,Rejected
+Wanda Garcia,Female,State University,65.0,2,73.4,Rejected
+Nicole Evans,Female,State University,77.2,3,80.6,Rejected
+Mr. Gregory Montoya MD,Male,Ivy League / Elite,75.9,0,92.4,Rejected
+Reginald Young PhD,Male,Community College,82.8,4,53.5,Rejected
+Heather Page,Female,State University,57.9,2,100.0,Rejected
+Carol Taylor,Female,State University,71.5,7,79.2,Selected
+Daniel Brown,Male,State University,87.4,2,71.0,Rejected
+Diana Ryan,Female,State University,58.4,6,71.5,Selected
+Michele Roberts,Female,State University,76.3,6,85.7,Selected
+Scott Duke,Male,Ivy League / Elite,73.4,3,66.1,Rejected
+Brandon Estes,Male,State University,37.1,4,75.7,Rejected
+Thomas Riddle,Male,Community College,77.7,3,60.6,Rejected
+Cameron Cline,Male,Community College,91.6,4,63.9,Selected
+Michael Poole,Male,State University,69.1,5,72.1,Selected
+Megan Burns,Female,State University,63.0,1,56.1,Rejected
+Derrick Perry,Male,State University,64.8,1,84.3,Rejected
+Mark Beard,Male,State University,53.1,1,74.0,Rejected
+Jose Ramirez,Male,State University,48.1,2,65.3,Rejected
+Jacob Clements,Male,Community College,56.1,0,74.4,Rejected
+April Schroeder,Female,State University,72.6,5,84.7,Selected
+Nicholas Ellis,Male,State University,75.1,2,76.5,Rejected
+Hunter Brown,Male,State University,64.1,4,70.7,Rejected
+Claudia Jordan,Female,Ivy League / Elite,78.3,5,77.1,Selected
+Derrick Clayton,Male,Community College,67.9,5,56.2,Rejected
+Kenneth Knight,Male,State University,67.4,2,67.5,Rejected
+Gregg Fleming,Male,State University,63.8,1,82.0,Rejected
+Brett Bowers,Male,State University,75.5,3,63.6,Rejected
+Caleb Mathews,Male,State University,61.3,4,78.8,Rejected
+Aaron Rubio,Male,State University,88.7,1,71.0,Rejected
+Michael Anderson,Male,State University,70.0,3,73.9,Rejected
+Caitlin Cantu,Female,State University,84.6,5,84.4,Selected
+Matthew Wright,Male,State University,64.9,6,71.0,Selected
+Steven Martin,Male,State University,85.0,6,79.2,Selected
+Eric Lyons,Male,State University,90.7,0,71.8,Rejected
+Matthew Padilla,Male,State University,74.0,5,78.2,Selected
+Karen Anderson,Female,Ivy League / Elite,100.0,3,65.7,Selected
+Michael Smith,Male,State University,72.2,0,63.5,Rejected
+Ruth Mcneil,Female,State University,61.9,4,82.2,Rejected
+Carlos Jones,Male,Ivy League / Elite,87.8,4,77.4,Selected
+Nicholas Garcia,Male,State University,75.4,4,87.0,Selected
+Stanley Taylor,Male,State University,92.6,0,76.0,Rejected
+Nicole Anderson,Female,Ivy League / Elite,76.1,0,76.0,Rejected
+Charles Moreno Jr.,Male,State University,76.8,1,70.0,Rejected
+Jeremiah Bowen,Male,Ivy League / Elite,85.3,0,100.0,Rejected
+Christian Jenkins,Male,Ivy League / Elite,90.7,4,85.8,Selected
+Shannon Miller,Female,Ivy League / Elite,93.3,2,77.5,Rejected
+Paul Lawrence,Male,State University,78.9,3,86.2,Selected
+Tracey Edwards,Female,Community College,76.4,4,66.2,Rejected
+Donald Miller,Male,State University,55.2,5,78.2,Rejected
+Kyle Lawson,Male,Ivy League / Elite,78.0,5,90.9,Selected
+Michael Abbott,Male,State University,88.0,6,78.5,Selected
+Eric Holmes,Male,Community College,61.5,3,80.0,Rejected
+Paul Phillips,Male,Ivy League / Elite,93.0,2,77.8,Rejected
+Steven Blevins,Male,Ivy League / Elite,100.0,1,56.5,Rejected
+Ashley Porter,Female,Community College,55.3,5,64.0,Rejected
+Joseph Levine,Male,Community College,72.5,2,49.3,Rejected
+Timothy Anderson PhD,Male,State University,85.5,6,65.1,Selected
+Jacob Vega,Male,State University,83.0,4,66.6,Selected
+Troy Townsend,Male,Ivy League / Elite,92.0,4,80.2,Selected
+Austin Baker,Male,State University,83.6,3,69.4,Rejected
+Antonio Mccormick,Male,State University,66.4,0,78.1,Rejected
+Mark Mason,Male,Ivy League / Elite,61.1,4,88.3,Rejected
+Mia Miller,Female,Ivy League / Elite,77.4,5,87.5,Selected
+Lisa Ramirez,Female,Ivy League / Elite,55.7,4,96.5,Rejected
+Jorge Harris,Male,Ivy League / Elite,74.1,2,82.7,Rejected
+Joshua Myers,Male,State University,64.5,6,77.9,Selected
+Ruben Becker,Male,State University,85.1,0,82.5,Rejected
+Michael Blair,Male,State University,88.8,5,86.6,Selected
+Anthony Miller,Male,Ivy League / Elite,69.6,2,85.3,Rejected
+Jesse Lynch,Male,Community College,62.3,3,75.4,Rejected
+Natalie Yang,Female,State University,94.4,5,82.1,Selected
+Michelle Miles,Female,Community College,83.8,2,79.1,Rejected
+Troy Mills,Male,State University,74.4,3,75.8,Rejected
+Nathan Jackson,Male,Ivy League / Elite,74.5,1,87.0,Rejected
+Richard Adams,Male,Ivy League / Elite,90.4,3,76.9,Selected
+Patricia Johnson,Female,Community College,67.5,5,71.5,Rejected
+Dillon Brown,Male,Ivy League / Elite,65.2,4,86.2,Selected
+Kenneth Jones,Male,State University,61.4,1,85.8,Rejected
+Heather Porter,Female,State University,74.7,3,64.7,Rejected
+Jacob Scott,Male,State University,59.5,0,79.1,Rejected
+Laura Sharp,Female,Community College,78.0,2,74.4,Rejected
+Jordan Williams,Male,Community College,63.1,4,70.8,Rejected
+David Ruiz,Male,State University,60.9,2,69.3,Rejected
+Chris Velazquez,Male,Ivy League / Elite,76.7,3,72.4,Rejected
+Kristen Sloan,Female,Community College,58.3,4,85.0,Rejected
+Jennifer Morris,Female,State University,56.9,5,86.4,Selected
+Michelle Nelson,Female,State University,83.7,3,87.2,Selected
+Jake Shaw,Male,Community College,75.1,4,62.7,Rejected
+Cassie Brock,Female,State University,58.9,5,73.2,Rejected
+Troy Jones MD,Male,State University,73.7,3,82.7,Rejected
+Ryan Murphy,Male,State University,51.3,0,85.7,Rejected
+Aimee Gonzalez,Female,Community College,62.7,4,77.3,Rejected
+Eric Dean,Male,State University,70.5,3,77.3,Rejected
+Kevin Snyder,Male,State University,80.6,5,65.3,Selected
+Craig Mccullough,Male,Ivy League / Elite,97.4,0,84.3,Rejected
+David Smith,Male,Ivy League / Elite,76.3,1,98.7,Rejected
+David Reed,Male,State University,69.1,4,68.1,Rejected
+Shawn Tapia,Male,State University,61.9,6,75.1,Selected
+Matthew Sweeney,Male,Ivy League / Elite,73.9,1,78.7,Rejected
+Ashley Moreno,Female,Community College,66.0,2,69.3,Rejected
+Katherine Brown,Female,State University,72.3,3,63.1,Rejected
+Dr. Brandon Morse PhD,Male,Community College,68.4,2,79.8,Rejected
+Michael Watson,Male,Ivy League / Elite,88.7,3,93.8,Selected
+Mr. Brendan Anderson,Male,State University,71.9,5,84.2,Selected
+Benjamin Bradley,Male,Ivy League / Elite,96.4,0,79.5,Rejected
+Victor Young,Male,State University,64.7,3,76.6,Rejected
+Ethan Owen,Male,State University,88.5,2,84.3,Rejected
+Nicolas Stewart,Male,State University,74.7,6,88.1,Selected
+Benjamin Harris,Male,State University,63.2,2,66.2,Rejected
+Kevin Moore,Male,State University,85.8,6,69.9,Selected
+John Russell,Male,Ivy League / Elite,65.9,8,79.1,Selected
+Traci Clark,Female,State University,72.1,2,92.3,Rejected
+Deborah Wilson,Female,Community College,80.1,2,57.9,Rejected
+Michael Mckenzie,Male,Ivy League / Elite,85.0,5,85.8,Selected
+Amanda Huff,Female,State University,79.2,2,69.0,Rejected
+Brandon Wright,Male,State University,95.4,4,62.8,Selected
+Kayla Byrd,Female,State University,71.9,3,100.0,Selected
+Wanda Johnson,Female,Community College,64.9,3,85.4,Rejected
+Jesse Adkins,Male,State University,69.2,8,73.4,Selected
+Joel Lara,Male,Ivy League / Elite,63.5,3,87.8,Rejected
+Adam Greer,Male,Community College,98.6,4,60.8,Selected
+Carlos Colon MD,Male,State University,73.5,3,67.0,Rejected
+Matthew Aguilar,Male,State University,63.7,4,71.8,Rejected
+Robert Johnson,Male,Community College,58.1,2,88.2,Rejected
+Steven Ramos,Male,State University,57.2,5,65.8,Rejected
+Susan Calderon,Female,Community College,74.4,4,60.9,Rejected
+Amanda Murray,Female,State University,83.2,4,85.3,Selected
+Kenneth Underwood,Male,Community College,90.8,3,65.7,Rejected
+Allen Vega,Male,Ivy League / Elite,90.8,5,74.8,Selected
+Daniel Lopez,Male,State University,63.1,0,70.2,Rejected
+Stephen Johnson,Male,Ivy League / Elite,64.7,1,78.6,Rejected
+Danielle Phillips,Female,State University,75.3,4,87.7,Selected
+Juan Brown,Male,Ivy League / Elite,62.0,5,94.4,Selected
+Chad Gonzalez,Male,State University,64.5,4,73.7,Rejected
+Joseph Mccoy,Male,State University,70.9,6,79.9,Selected
+Robert Mayo,Male,Ivy League / Elite,86.6,4,85.1,Selected
+Heather Stephens,Female,State University,73.5,1,93.7,Rejected
+Susan Shaw,Female,Ivy League / Elite,91.7,4,82.6,Selected
+Christopher Flores,Male,State University,47.6,7,67.1,Rejected
+Steven Osborne,Male,State University,72.0,6,75.2,Selected
+William Moreno,Male,State University,76.9,1,76.3,Rejected
+Yvonne Dickson,Female,State University,70.6,1,75.3,Rejected
+Mary Adams,Female,State University,81.2,2,44.0,Rejected
+Thomas Brown,Male,State University,73.5,3,64.1,Rejected
+Mr. Ryan Salinas MD,Male,State University,70.0,1,80.8,Rejected
+Sarah Thompson,Female,State University,67.6,2,77.9,Rejected
+Robert Wolfe,Male,State University,86.2,2,81.6,Rejected
+Alyssa Haynes,Female,State University,56.8,4,78.8,Rejected
+Justin Hart,Male,Ivy League / Elite,83.1,5,79.5,Selected
+William Keith,Male,Ivy League / Elite,67.6,5,89.5,Selected
+Eric Henry,Male,Ivy League / Elite,96.3,3,81.7,Selected
+David Robinson,Male,Community College,80.9,0,79.3,Rejected
+Aaron Hardin,Male,State University,32.7,1,87.1,Rejected
+Bianca Love,Female,Community College,71.6,0,61.7,Rejected
+Ryan Morris,Male,State University,53.9,4,74.3,Rejected
+Kevin Stark,Male,State University,89.5,2,71.0,Rejected
+Ryan Valencia,Male,Community College,61.4,2,52.6,Rejected
+Mr. Tom Foster,Male,Ivy League / Elite,75.4,4,62.0,Rejected
+Eric Taylor,Male,State University,63.0,0,74.0,Rejected
+Travis Conner,Male,State University,76.5,2,59.0,Rejected
+Miss Carrie Novak,Female,Community College,79.9,1,70.9,Rejected
+Timothy Buchanan,Male,State University,68.0,5,55.9,Rejected
+Kevin Thompson,Male,Ivy League / Elite,75.7,4,78.1,Selected
+Michael Anderson,Male,State University,82.4,4,72.2,Selected
+Tiffany Fry,Female,State University,71.7,0,81.8,Rejected
+Wendy Sanford,Female,State University,69.6,5,64.5,Rejected
+Lindsey Mccall,Female,State University,67.5,3,75.5,Rejected
+Mr. Keith Zuniga,Male,State University,89.9,2,67.4,Rejected
+Patrick Young,Male,State University,75.0,6,73.0,Selected
+Christopher Mcclure Jr.,Male,Community College,61.4,5,76.8,Rejected
+Mark Tanner,Male,State University,62.3,2,78.0,Rejected
+Derek Wright,Male,Ivy League / Elite,84.7,0,100.0,Rejected
+David Rodriguez,Male,State University,73.3,4,68.6,Rejected
+James Oconnor,Male,Ivy League / Elite,80.7,5,91.0,Selected
+Dr. Johnny Gray,Male,Ivy League / Elite,76.7,4,71.0,Rejected
+Ashley Mendoza,Female,State University,62.1,3,58.2,Rejected
+Matthew Mcdaniel,Male,State University,65.6,3,75.4,Rejected
+Benjamin Singleton,Male,State University,87.1,1,77.3,Rejected
+Emma Lynn,Female,State University,82.4,0,71.8,Rejected
+Christopher Bennett,Male,Community College,69.1,2,81.2,Rejected
+Kimberly Villanueva,Female,State University,77.3,1,87.1,Rejected
+Kirk Austin,Male,Community College,79.3,1,76.3,Rejected
+Andre Dunlap,Male,Ivy League / Elite,74.9,4,83.5,Selected
+Stacy Moore,Female,State University,66.9,3,81.4,Rejected
+Christine Lee,Female,Ivy League / Elite,67.8,0,81.4,Rejected
+Miranda Blair,Female,State University,64.1,0,63.8,Rejected
+Douglas Young,Male,State University,66.8,4,61.2,Rejected
+Kenneth Larsen,Male,Ivy League / Elite,62.6,4,90.8,Selected
+Isaac Patterson,Male,Ivy League / Elite,70.3,2,72.5,Rejected
+Matthew Greene,Male,Community College,75.6,2,84.8,Rejected
+Allison Jackson,Female,State University,73.4,5,70.8,Selected
+Bradley Anthony,Male,State University,58.4,6,87.9,Selected
+Jennifer Burns,Female,Community College,73.2,1,80.2,Rejected
+Brandon Stephens,Male,State University,81.7,4,70.0,Selected
+Stephen Wood,Male,State University,71.1,1,70.0,Rejected
+Dennis Marshall,Male,Ivy League / Elite,67.9,5,59.6,Rejected
+Debra Brown,Female,State University,83.6,4,71.3,Selected
+Mary Miller,Female,Community College,68.7,3,83.8,Rejected
+Kimberly Arellano,Female,Community College,68.5,2,57.6,Rejected
+Kristen Randall,Female,Community College,87.4,3,64.2,Rejected
+Jennifer Nichols,Female,State University,56.9,5,85.2,Selected
+Karen Keith,Female,State University,67.2,3,87.5,Rejected
+Blake Orr,Male,State University,61.0,4,85.6,Rejected
+Jonathan Lester,Male,State University,74.4,3,80.0,Rejected
+Michael Oliver,Male,Ivy League / Elite,86.3,3,89.5,Selected
+Nicole Thompson,Female,Community College,67.3,2,69.1,Rejected
+Valerie Stokes MD,Female,Community College,84.4,2,64.2,Rejected
+William Graham,Male,State University,38.0,1,54.1,Rejected
+Miss Sandra Scott DVM,Female,State University,77.3,0,69.9,Rejected
+Andrea Hughes,Female,State University,85.7,1,83.9,Rejected
+Gabriel Hill,Male,State University,73.7,4,93.6,Selected
+Shane Buchanan,Male,Ivy League / Elite,91.6,3,100.0,Selected
+Kelly Barnes,Female,State University,64.0,3,66.2,Rejected
+Charles Matthews,Male,Ivy League / Elite,51.1,4,100.0,Rejected
+Teresa Buckley,Female,State University,63.5,4,73.3,Rejected
+Brian Mitchell,Male,State University,55.7,4,62.3,Rejected
+Hailey Jenkins,Female,State University,68.3,5,73.3,Selected
+Karla Lynch,Female,Community College,68.1,6,78.8,Selected
+Desiree Thomas,Female,Ivy League / Elite,73.3,3,89.4,Rejected
+Michael Williams,Male,Community College,73.6,0,91.9,Rejected
+Erin Young,Female,Community College,66.3,3,55.6,Rejected
+Tammie Prince,Female,State University,69.5,8,62.7,Selected
+Robert Turner,Male,State University,72.2,0,79.9,Rejected
+Katherine Horton,Female,State University,83.9,4,80.4,Selected
+Sean Taylor,Male,Community College,74.8,5,66.8,Selected
+Mr. Roger Adams,Male,Ivy League / Elite,80.4,7,74.6,Selected
+Matthew Lopez,Male,State University,61.5,5,66.6,Rejected
+Rodney Figueroa,Male,State University,73.6,5,85.7,Selected
+Sean Nicholson,Male,Community College,71.8,0,64.9,Rejected
+Caitlin Collins,Female,Community College,49.1,4,75.0,Rejected
+Chad York,Male,Ivy League / Elite,76.1,4,82.8,Selected
+Alyssa Lee,Female,Community College,48.2,3,67.3,Rejected
+Russell Wright,Male,Community College,56.8,2,52.5,Rejected
+Thomas Bush,Male,Community College,57.0,3,87.6,Rejected
+Rodney Wagner,Male,Community College,63.7,3,67.1,Rejected
+Becky Johnson,Female,State University,52.5,4,59.4,Rejected
+Kirk Thompson,Male,State University,90.5,3,92.4,Selected
+Kevin Bailey,Male,Ivy League / Elite,100.0,3,70.8,Selected
+Stephanie Curry,Female,State University,73.0,2,79.9,Rejected
+Dustin Hughes,Male,State University,72.5,3,67.9,Rejected
+Kenneth Hanna,Male,State University,79.5,2,79.5,Rejected
+Matthew Byrd,Male,State University,57.5,3,71.5,Rejected
+Jennifer Smith,Female,State University,75.8,3,83.1,Rejected
+Randall Smith,Male,Ivy League / Elite,72.8,1,82.2,Rejected
+Maria Burke,Female,Community College,80.5,5,76.3,Selected
+David Trujillo,Male,Community College,84.7,4,73.5,Selected
+Tracy Day,Female,State University,72.9,1,77.5,Rejected
+Jamie Bailey,Female,State University,60.1,3,61.0,Rejected
+Julie Byrd,Female,Community College,57.2,0,79.0,Rejected
+James Garcia,Male,State University,90.6,0,70.6,Rejected
+Mary Bridges,Female,Community College,68.1,1,65.0,Rejected
+Matthew Lynch,Male,Ivy League / Elite,87.3,2,81.4,Rejected
+Brian Brown,Male,Ivy League / Elite,87.1,4,78.1,Selected
+Martin Hensley III,Male,State University,73.7,4,79.5,Selected
+Stephanie Evans,Female,State University,79.0,2,70.6,Rejected
+Pamela Yoder,Female,State University,65.3,2,80.4,Rejected
+Rebekah Greene,Female,Ivy League / Elite,74.9,5,83.4,Selected
+Michael Griffith,Male,Community College,86.4,3,69.4,Rejected
+Zachary Green,Male,State University,70.8,5,62.8,Rejected
+Jasmine Johnson,Female,Community College,77.0,1,71.4,Rejected
+Kenneth Lee,Male,State University,58.0,3,55.7,Rejected
+Daniel Nichols,Male,State University,63.9,3,75.2,Rejected
+Terry Powers,Male,State University,61.4,6,65.1,Rejected
+Ryan Pittman,Male,State University,65.4,2,65.0,Rejected
+Christopher Davis,Male,State University,47.3,5,90.5,Rejected
+David Stokes,Male,Ivy League / Elite,56.1,3,77.0,Rejected
+Clayton Frazier,Male,Community College,62.6,0,81.4,Rejected
+Brandon Kelly,Male,Community College,74.1,2,73.6,Rejected
+Elizabeth French,Female,State University,62.4,0,72.7,Rejected
+David Carter,Male,State University,89.3,5,71.6,Selected
+John Delacruz,Male,State University,65.0,2,77.6,Rejected
+Terry Jones,Female,State University,70.1,8,83.3,Selected
+Jonathan Dillon,Male,State University,73.3,6,82.2,Selected
+Elizabeth Brown,Female,State University,72.7,4,80.0,Selected
+Brenda Gonzalez,Female,State University,61.9,4,75.3,Rejected
+Keith Knox,Male,State University,44.0,3,65.7,Rejected
+Eugene Baldwin,Male,State University,87.8,3,79.4,Selected
+Katherine Welch,Female,State University,66.3,7,80.1,Selected
+Madison Smith,Female,State University,76.8,1,97.1,Rejected
+Philip Jackson,Male,State University,76.7,3,83.4,Rejected
+John Gallagher,Male,Ivy League / Elite,99.0,2,81.2,Selected
+Lucas Schultz,Male,Community College,89.5,2,55.9,Rejected
+Traci Reyes,Female,Community College,75.7,4,67.5,Rejected
+Curtis Watson,Male,Ivy League / Elite,89.8,2,66.7,Rejected
+Erica Whitaker,Female,State University,62.2,2,81.1,Rejected
+Michael Sims,Male,State University,51.3,6,67.2,Rejected
+Michael Cooper,Male,Community College,62.8,5,64.9,Rejected
+James Chapman,Male,Ivy League / Elite,85.5,5,76.0,Selected
+Rodney Evans,Male,Ivy League / Elite,84.3,5,85.1,Selected
+Nicholas Carlson,Male,State University,52.7,1,82.0,Rejected
+Stephen Cowan,Male,Community College,85.4,1,77.6,Rejected
+Steven Howard,Male,Ivy League / Elite,55.0,2,88.1,Rejected
+Tiffany Hull,Female,State University,75.3,6,83.2,Selected
+Darryl Acosta,Male,State University,86.7,2,84.1,Rejected
+Nicholas Lawrence,Male,State University,63.8,6,71.1,Selected
+Holly Santos,Female,Community College,49.6,3,79.1,Rejected
+Sherri Scott,Female,State University,81.2,1,77.8,Rejected
+Amber Vang,Female,State University,75.1,3,66.5,Rejected
+Martha Smith,Female,State University,83.7,2,94.1,Selected
+Jason James,Male,Ivy League / Elite,62.8,2,78.9,Rejected
+John Hernandez,Male,Community College,69.8,6,61.7,Selected
+Lorraine Turner,Female,State University,66.6,5,77.1,Selected
+Mary Nelson,Female,State University,52.7,2,56.8,Rejected
+Chad Rivas,Male,Ivy League / Elite,86.4,4,93.4,Selected
+Michelle Wilson,Female,Community College,59.9,1,68.5,Rejected
+Brian Gonzalez,Male,State University,68.4,2,82.7,Rejected
+Dennis Mills,Male,Ivy League / Elite,84.0,5,79.0,Selected
+Michael Phillips,Male,State University,57.6,2,91.7,Rejected
+Jon Clark,Male,Community College,70.1,2,77.7,Rejected
+Gary Smith,Male,State University,29.0,4,78.8,Rejected
+Terry Conley,Male,Community College,76.9,4,84.2,Selected
+Brittany Davis,Female,State University,74.4,0,66.0,Rejected
+Nathaniel Garcia,Male,State University,64.5,2,68.1,Rejected
+David Hinton,Male,Ivy League / Elite,80.5,3,66.5,Rejected
+Julie Garcia,Female,State University,79.7,5,56.6,Rejected
+Amanda Roberts,Female,State University,62.2,1,74.3,Rejected
+Emily Rodgers,Female,State University,70.1,7,79.5,Selected
+Olivia Williams,Female,Community College,72.2,4,65.9,Rejected
+Mary Jackson,Female,State University,79.9,1,81.9,Rejected
+Jeffrey Howell,Male,Ivy League / Elite,78.2,5,81.7,Selected
+Brandon Briggs,Male,Community College,67.2,1,60.7,Rejected
+James Rivers,Male,Community College,76.5,0,49.7,Rejected
+James Jefferson,Male,State University,85.1,0,79.6,Rejected
+Matthew Robles,Male,State University,69.0,0,78.1,Rejected
+Melissa Brown,Female,State University,75.7,0,75.0,Rejected
+Christopher Perry,Male,Ivy League / Elite,87.1,0,93.0,Rejected
+Robert Gregory,Male,Community College,56.0,2,77.4,Rejected
+James Howard,Male,State University,63.9,2,81.4,Rejected
+Melinda Roberson,Female,State University,80.2,3,65.2,Rejected
+Mr. Thomas Rodriguez,Male,State University,67.2,5,74.1,Selected
+Amber Green,Female,Community College,70.0,0,56.9,Rejected
+Michael Gregory,Male,Ivy League / Elite,74.9,3,78.0,Rejected
+Kenneth Cunningham,Male,State University,77.0,4,49.0,Rejected
+Michael Morgan MD,Male,Community College,65.7,2,65.2,Rejected
+Anna Stanley,Female,State University,67.0,1,77.2,Rejected
+Gregory Rhodes,Male,State University,81.2,4,60.9,Rejected
+Sara Grant,Female,State University,70.8,2,88.4,Rejected
+Anthony Schneider Jr.,Male,State University,84.1,2,72.2,Rejected
+Samuel Booth,Male,State University,48.2,2,74.9,Rejected
+Katherine Allen,Female,State University,91.0,4,77.5,Selected
+Mrs. Courtney Schneider,Female,State University,73.0,2,69.7,Rejected
+Cynthia Stevens,Female,State University,76.6,3,91.4,Selected
+Joan Gates,Female,State University,79.4,0,86.8,Rejected
+Barbara Jimenez,Female,Community College,84.4,0,79.0,Rejected
+Ashley Gutierrez,Female,Community College,55.5,5,85.6,Rejected
+April Davis,Female,State University,57.5,4,62.2,Rejected
+Lisa Torres,Female,Ivy League / Elite,94.5,0,97.3,Rejected
+Christine Powers,Female,Community College,67.1,3,57.7,Rejected
+Jack Brown,Male,Community College,75.5,4,65.2,Rejected
+Jordan Castro,Female,State University,50.9,3,73.6,Rejected
+John Sandoval,Male,Community College,93.6,5,69.0,Selected
+Ashley Malone,Female,State University,80.1,4,81.3,Selected
+Gloria Gallegos,Female,State University,79.4,0,68.3,Rejected
+Mr. Joseph Park,Male,State University,62.6,1,68.9,Rejected
+Carly Taylor,Female,State University,67.4,4,72.8,Rejected
+Nathan Rodriguez,Male,State University,64.3,6,77.1,Selected
+Cody Conrad,Male,Community College,77.5,6,65.7,Selected
+Joyce Harrington,Female,Community College,71.9,1,68.0,Rejected
+Brian Perry,Male,State University,79.8,0,61.6,Rejected
+Sara Chapman,Female,Community College,97.6,2,54.8,Rejected
+Joanna Barrett,Female,State University,85.5,4,91.4,Selected
+Chad Porter,Male,Ivy League / Elite,65.8,3,87.9,Rejected
+Anthony Mcconnell,Male,State University,84.7,3,82.7,Selected
+John Romero,Male,State University,72.6,1,74.7,Rejected
+Christopher Lane,Male,State University,76.8,2,95.2,Rejected
+Betty Hughes,Female,Community College,74.8,4,61.5,Rejected
+Stephen Gordon,Male,Ivy League / Elite,65.4,3,76.7,Rejected
+William Moon,Male,State University,58.5,2,76.9,Rejected
+Donald Stuart,Male,State University,75.6,0,83.4,Rejected
+Mr. Casey Gutierrez,Male,State University,96.4,5,67.8,Selected
+Nicole Evans,Female,State University,98.3,3,59.8,Rejected
+Scott Joseph,Male,Ivy League / Elite,91.4,1,85.3,Rejected
+Mackenzie Harris,Female,State University,85.9,4,60.6,Rejected
+Dylan Reed,Male,Ivy League / Elite,88.2,3,91.2,Selected
+Vicki Santos,Female,Community College,70.0,5,72.3,Selected
+Jonathan Benson,Male,Community College,55.4,4,89.2,Rejected
+Brian Bell,Male,Community College,73.1,1,69.2,Rejected
+Laura Contreras,Female,State University,83.6,3,71.7,Rejected
+Paul Skinner,Male,State University,71.0,3,94.9,Selected
+Sarah Stokes,Female,State University,66.5,6,74.0,Selected
+Allison Thomas,Female,Community College,89.9,5,75.0,Selected
+Curtis Christensen,Male,State University,66.4,3,78.0,Rejected
+Dustin King,Male,State University,68.4,0,88.3,Rejected
+Melissa Phillips,Female,State University,79.0,5,69.4,Selected
+Andrew Cervantes,Male,State University,48.8,2,91.0,Rejected
+Sean Stevenson,Male,State University,78.8,6,84.4,Selected
+Patrick Hoffman,Male,State University,51.8,2,73.9,Rejected
+Richard Lindsey,Male,Community College,52.6,6,64.8,Rejected
+Matthew House,Male,Ivy League / Elite,83.0,3,74.4,Rejected
+Tina Daugherty,Female,State University,79.9,2,60.6,Rejected
+Kristen Smith,Female,Community College,63.3,4,73.1,Rejected
+Lisa Norman,Female,State University,80.9,8,75.5,Selected
+Sandra Pruitt,Female,State University,87.4,0,79.5,Rejected
+Matthew Fischer,Male,State University,66.4,4,70.0,Rejected
+Lindsey Parsons,Female,Community College,70.2,4,72.1,Rejected
+Mr. Christopher Fleming,Male,Ivy League / Elite,66.6,2,66.6,Rejected
+Christopher Palmer,Male,State University,69.5,6,69.6,Selected
+Jeffrey Hawkins,Male,State University,62.9,4,64.5,Rejected
+Kevin Scott,Male,State University,75.4,3,69.6,Rejected
+Michelle Moore,Female,State University,67.5,3,81.1,Rejected
+Erica Williams,Female,Ivy League / Elite,72.9,3,61.3,Rejected
+Luis Stanley,Male,State University,78.6,5,78.0,Selected
+Kenneth Howard,Male,State University,87.4,2,57.0,Rejected
+Emily Robinson,Female,Ivy League / Elite,83.2,5,85.5,Selected
+Barry Wagner,Male,Ivy League / Elite,84.3,4,79.3,Selected
+Joshua Davis,Male,Community College,76.6,4,52.5,Rejected
+Daniel Rivera,Male,Ivy League / Elite,60.5,2,87.2,Rejected
+Colleen Goodwin,Female,Ivy League / Elite,67.6,2,69.4,Rejected
+Yesenia Colon,Female,State University,55.6,1,76.0,Rejected
+Adam Caldwell MD,Male,Ivy League / Elite,84.0,5,79.6,Selected
+Louis Oliver,Male,State University,74.6,2,87.9,Rejected
+Melanie Flores,Female,Ivy League / Elite,100.0,4,71.6,Selected
+Theresa Cruz,Female,State University,100.0,4,76.2,Selected
+Douglas Pruitt,Male,State University,71.3,2,77.0,Rejected
+Jaime Lang,Female,State University,57.1,3,52.3,Rejected
+Andrew Villanueva,Male,State University,69.5,3,64.6,Rejected
+Jose Vaughan,Male,State University,83.6,2,56.0,Rejected
+Tina Medina,Female,State University,75.1,3,71.8,Rejected
+Austin Santiago,Male,State University,53.3,9,71.1,Selected
+Sean Coleman,Male,Ivy League / Elite,82.2,4,73.1,Selected
+Joshua Park,Male,Ivy League / Elite,63.1,4,59.7,Rejected
+Reginald Lucas DVM,Male,Ivy League / Elite,83.3,4,100.0,Selected
+Brittany Stevens,Female,Community College,91.2,1,99.7,Selected
+Brandon Brown,Male,State University,43.3,0,49.9,Rejected
+Kristin Andrews,Female,Community College,69.9,4,71.5,Rejected
+David Hughes,Male,State University,64.9,4,68.5,Rejected
+Jeffrey Smith,Male,Community College,76.5,4,90.6,Selected
+Joseph May,Male,State University,45.9,0,71.4,Rejected
+Nicole Richards,Female,State University,56.5,4,77.9,Rejected
+Benjamin Reilly,Male,State University,80.1,3,66.6,Rejected
+Rachel Turner,Female,State University,72.6,1,90.6,Rejected
+Preston Kim,Male,Ivy League / Elite,59.5,1,78.8,Rejected
+Mary Wells,Female,Community College,94.0,4,65.0,Selected
+Chad Myers,Male,Community College,68.6,2,54.8,Rejected
+Kimberly Choi,Female,State University,50.8,4,78.1,Rejected
+Megan Sloan,Female,State University,80.0,3,70.8,Rejected
+Monica Brooks,Female,State University,51.4,1,81.6,Rejected
+Kristen Peters,Female,Community College,58.7,4,59.5,Rejected
+Abigail Carlson,Female,State University,52.6,2,74.4,Rejected
+Travis Torres,Male,State University,87.7,1,69.3,Rejected
+Steven Cooper,Male,Ivy League / Elite,69.3,4,72.4,Rejected
+Matthew Hunt,Male,State University,90.9,0,69.8,Rejected
+Connie Davenport,Female,State University,85.0,0,62.6,Rejected
+Christopher Marsh,Male,State University,83.5,2,69.0,Rejected
+Sarah Randolph,Female,Ivy League / Elite,78.1,3,74.0,Rejected
+Joel Dunn IV,Male,Ivy League / Elite,68.9,2,83.6,Rejected
+Brett Swanson,Male,Ivy League / Elite,63.7,5,86.4,Selected
+Gary Anderson,Male,State University,93.2,1,78.2,Rejected
+Ariel Harvey,Female,State University,52.2,2,84.8,Rejected
+Evan Hayes,Male,Community College,75.3,0,88.2,Rejected
+Eric Silva,Male,Ivy League / Elite,78.3,0,88.6,Rejected
+Jacob Stewart,Male,State University,69.3,0,59.8,Rejected
+Aaron Sanchez,Male,State University,86.3,6,85.2,Selected
+Patrick Graham,Male,Ivy League / Elite,73.6,3,92.4,Selected
+Chad Quinn,Male,State University,97.1,3,55.1,Rejected
+Julie Howard,Female,State University,63.9,3,46.0,Rejected
+Juan Thompson,Male,State University,62.6,7,76.0,Selected
+Ryan Trevino,Male,State University,77.6,3,66.1,Rejected
+Joshua Baker,Male,State University,85.1,3,71.0,Rejected
+Billy Jones,Male,State University,77.8,6,76.6,Selected
+Jonathon Johnson,Male,Ivy League / Elite,82.0,1,80.3,Rejected
+Jared Lawrence,Male,State University,79.3,4,76.7,Selected
+Juan Stephens,Male,State University,75.0,1,69.3,Rejected
+Mr. Reginald Diaz II,Male,Ivy League / Elite,90.2,3,58.4,Rejected
+Morgan Carter,Female,State University,61.9,6,88.6,Selected
+Katrina Sanders,Female,State University,93.5,0,82.7,Rejected
+Mary Charles,Female,Ivy League / Elite,76.5,2,93.9,Rejected
+Lucas Martin,Male,State University,72.0,2,86.7,Rejected
+Jeremy White,Male,State University,57.2,2,76.3,Rejected
+Matthew Faulkner,Male,Community College,64.2,2,79.6,Rejected
+John Howard,Male,State University,75.1,3,92.3,Selected
+Katherine Brown,Female,State University,60.3,1,96.1,Rejected
+Andrew Clark,Male,Ivy League / Elite,100.0,5,87.5,Selected
+Isaiah Harrison,Male,State University,81.5,4,69.1,Selected
+Anthony Hooper,Male,State University,70.7,2,63.4,Rejected
+Michele Boyd,Female,Community College,73.7,6,77.7,Selected
+Ruben Baker,Male,Community College,84.2,5,72.4,Selected
+Christopher Valdez,Male,State University,59.6,6,69.3,Selected
+Matthew Houston,Male,State University,78.0,5,84.4,Selected
+James Solomon,Male,Ivy League / Elite,65.3,5,83.2,Selected
+Harry Parrish,Male,State University,59.7,4,60.0,Rejected
+John Munoz,Male,Ivy League / Elite,93.7,1,76.0,Rejected
+Charles Martin,Male,Community College,54.8,2,52.4,Rejected
+Mason Lewis,Male,State University,65.4,3,79.5,Rejected
+Jack Love,Male,Community College,57.9,3,72.9,Rejected
+David Shepherd,Male,State University,95.5,3,84.6,Selected
+John Mendoza,Male,Community College,71.1,6,55.1,Rejected
+Candace Whitaker,Female,Community College,83.6,2,72.7,Rejected
+Amanda Berry,Female,State University,65.4,3,74.6,Rejected
+Mark Williams,Male,State University,67.0,0,70.8,Rejected
+Anthony Scott,Male,Ivy League / Elite,81.8,7,75.3,Selected
+Tyler Greene,Male,State University,59.7,5,83.2,Selected
+Albert Ball,Male,State University,68.7,7,71.5,Selected
+Diane Miller,Female,State University,73.3,3,90.3,Rejected
+Willie Dillon,Male,State University,82.3,0,82.5,Rejected
+Sandra Burke,Female,State University,76.7,4,90.0,Selected
+Robert White,Male,Community College,93.2,9,86.9,Selected
+Dennis Ramsey,Male,Community College,77.8,3,78.7,Rejected
+Jody Garza,Female,State University,61.1,3,82.6,Rejected
+Janice Rodriguez,Female,State University,81.9,5,70.0,Selected
+Shannon Gordon,Female,Ivy League / Elite,75.9,4,88.1,Selected
+Brittany Davis,Female,State University,73.7,6,67.3,Selected
+Lucas Williams,Male,State University,80.9,6,70.6,Selected
+Kathy Wilson,Female,Ivy League / Elite,78.3,6,84.7,Selected
+Carlos Munoz,Male,State University,56.4,2,67.3,Rejected
+Stephanie Hampton,Female,Community College,70.9,4,71.1,Rejected
+Joseph Wood,Male,State University,76.8,3,82.0,Rejected
+Kendra Perez,Female,State University,70.5,1,75.9,Rejected
+Richard James,Male,Ivy League / Elite,88.5,3,87.7,Selected
+Patrick Juarez,Male,Ivy League / Elite,66.8,1,85.0,Rejected
+Brent Anderson,Male,State University,67.9,0,63.3,Rejected
+Crystal Trevino,Female,Community College,76.3,5,58.8,Rejected
+Shawn Ortiz,Male,Ivy League / Elite,70.9,4,66.2,Rejected
+Michael Clarke,Male,State University,66.6,4,71.6,Rejected
+Bruce Smith,Male,Community College,77.5,1,69.5,Rejected
+Michael Stewart,Male,State University,62.7,5,90.0,Selected
+Brittney Pearson,Female,State University,62.1,2,75.3,Rejected
+Scott Henderson,Male,State University,93.8,1,63.5,Rejected
+Desiree Becker,Female,State University,72.3,3,46.7,Rejected
+Jason Bowers,Male,Ivy League / Elite,93.9,3,88.3,Selected
+Jacob Peters,Male,State University,87.9,7,71.4,Selected
+Elizabeth Cooper,Female,State University,54.8,1,66.3,Rejected
+Nancy Wyatt,Female,Ivy League / Elite,71.4,2,84.7,Rejected
+Paul Griffin,Male,Community College,65.2,3,62.3,Rejected
+Christopher Lewis,Male,Ivy League / Elite,59.9,3,62.1,Rejected
+Gina Pierce,Female,State University,82.7,6,68.9,Selected
+Michael Martin,Male,State University,80.5,0,61.6,Rejected
+Mrs. Anna Thomas,Female,Community College,67.3,3,59.4,Rejected
+Jessica Brown,Female,State University,60.8,6,76.9,Selected
+Angela Johnson,Female,State University,84.6,3,67.5,Rejected
+William Mendez,Male,State University,85.5,4,64.6,Selected
+Michelle Harper,Female,Ivy League / Elite,79.8,5,70.7,Selected
+Robert Bowman,Male,State University,71.5,0,57.0,Rejected
+Dakota Sandoval,Male,Ivy League / Elite,61.0,2,77.9,Rejected
+Dustin Johnson,Male,Ivy League / Elite,62.3,5,68.9,Rejected
+Jose Hall,Male,Ivy League / Elite,63.6,8,100.0,Selected
+Amanda Allen,Female,State University,91.0,1,96.6,Selected
+Brooke Shea,Female,Community College,49.7,2,58.5,Rejected
+Heather Foster,Female,State University,59.0,2,89.2,Rejected
+Joseph Mclaughlin,Male,State University,72.2,5,74.7,Selected
+Brandon Mitchell,Male,State University,51.6,3,76.9,Rejected
+Thomas Bailey,Male,Ivy League / Elite,91.6,5,75.2,Selected
+Mrs. Lisa Lee,Female,Ivy League / Elite,74.5,6,91.9,Selected
+Kenneth Green,Male,State University,71.7,2,75.5,Rejected
+Ashley Jones,Female,Ivy League / Elite,89.5,1,99.2,Selected
+Travis Pratt,Male,State University,59.2,2,80.0,Rejected
+Shawn Li,Male,State University,78.1,6,62.7,Selected
+Melissa Church,Female,State University,61.9,8,78.0,Selected
+Randy Todd,Male,State University,45.3,2,82.6,Rejected
+Mrs. Julia Matthews,Female,State University,75.2,1,71.7,Rejected
+Audrey Jones,Female,State University,75.2,3,76.5,Rejected
+Zachary Rhodes,Male,Ivy League / Elite,72.3,3,91.2,Selected
+Ethan Moses,Male,State University,68.7,4,67.3,Rejected
+Adam Collier,Male,State University,67.4,2,75.8,Rejected
+Anna Nunez,Female,State University,71.1,2,64.6,Rejected
+Billy Velazquez,Male,Community College,77.1,1,72.1,Rejected
+Hayden Shannon,Male,Community College,81.7,5,62.3,Selected
+Travis Vega,Male,Ivy League / Elite,87.7,1,88.5,Rejected
+Kathryn Gonzalez,Female,State University,80.0,4,89.3,Selected
+Shane Clark,Male,State University,69.3,1,81.8,Rejected
+Danielle Montgomery,Female,State University,63.3,2,66.3,Rejected
+Ashley Mora,Female,State University,63.8,5,86.3,Selected
+Matthew Austin,Male,Ivy League / Elite,81.5,5,94.5,Selected
+Joshua Williams,Male,State University,63.7,3,75.3,Rejected
+Lisa Vasquez,Female,Community College,96.9,1,78.4,Rejected
+Steven Melton MD,Male,State University,59.0,8,69.7,Selected
+Sydney Ramirez MD,Female,State University,71.9,5,79.0,Selected
+Anthony Lloyd,Male,State University,77.5,2,60.9,Rejected
+Joshua Shaw,Male,State University,73.7,0,69.6,Rejected
+Melissa Thompson,Female,State University,85.5,2,72.1,Rejected
+Michael Stevens DDS,Male,State University,68.6,2,71.0,Rejected
+Daniel Carpenter,Male,Community College,83.2,1,70.4,Rejected
+Louis Green,Male,State University,83.7,4,58.5,Rejected
+David Ruiz,Male,Ivy League / Elite,67.6,9,71.1,Selected
+Jacob Jimenez,Male,State University,71.8,2,69.0,Rejected
+Michael Watson,Male,State University,48.4,0,60.0,Rejected
+Diana White,Female,Community College,82.9,4,77.7,Selected
+Kenneth Perez,Male,State University,54.9,3,52.0,Rejected
+Debra Young,Female,State University,67.6,2,78.1,Rejected
+James Thomas,Male,State University,63.9,3,86.0,Rejected
+Brittany Shaffer,Female,State University,72.4,4,72.4,Rejected
+Jonathan Cowan,Male,State University,56.0,2,73.7,Rejected
+Kelly Le,Female,Community College,56.8,4,88.5,Rejected
+Elijah Hart,Male,State University,71.6,0,75.0,Rejected
+James Vaughn,Male,Community College,60.4,6,81.2,Selected
+Robert Woods,Male,Ivy League / Elite,68.9,3,68.6,Rejected
+Jerry Cook,Male,State University,61.5,4,62.1,Rejected
+Justin Frederick,Male,Ivy League / Elite,91.1,2,86.5,Selected
+Alejandro Martinez,Male,State University,76.3,3,89.8,Selected
+Tracey Gonzalez,Female,Ivy League / Elite,67.6,4,80.5,Rejected
+Matthew Thompson,Male,State University,64.2,2,84.7,Rejected
+Henry Nunez,Male,State University,88.3,4,72.7,Selected
+Noah Preston,Male,State University,74.7,0,80.7,Rejected
+Donna Welch,Female,State University,61.7,6,70.3,Selected
+Christopher Morton,Male,Community College,69.4,1,48.2,Rejected
+Mark Duncan,Male,State University,67.7,3,71.7,Rejected
+Benjamin Martin,Male,State University,78.2,2,74.4,Rejected
+Emily Carter,Female,State University,89.0,0,84.0,Rejected
+Maria Nelson,Female,State University,66.7,2,75.3,Rejected
+Scott Cox,Male,State University,80.8,2,84.7,Rejected
+Tracie Gutierrez,Female,State University,65.8,1,86.4,Rejected
+Allison Luna,Female,State University,57.8,2,76.2,Rejected
+Todd Haynes,Male,Ivy League / Elite,87.9,3,96.6,Selected
+Carol Garcia,Female,State University,58.4,1,70.2,Rejected
+Shawn Kelley,Male,Ivy League / Elite,55.1,5,100.0,Selected
+James Hubbard,Male,State University,75.6,5,65.9,Selected
+Dennis Moore,Male,Community College,68.6,5,50.9,Rejected
+Stephen Parker,Male,Ivy League / Elite,89.0,4,100.0,Selected
+Duane Sims,Male,Ivy League / Elite,96.9,3,73.0,Selected
+Sara Johnson,Female,State University,74.3,5,81.6,Selected
+Scott Nguyen,Male,State University,77.7,1,57.6,Rejected
+William Fernandez,Male,State University,60.9,4,61.3,Rejected
+Jeremy Montes,Male,Community College,56.8,7,67.3,Selected
+Cassandra Harper,Female,Community College,79.2,6,76.4,Selected
+Mark Elliott,Male,Ivy League / Elite,86.8,2,94.6,Selected
+Mark Collins,Male,State University,53.0,1,71.9,Rejected
+Joshua Ballard,Male,Ivy League / Elite,87.1,8,82.2,Selected
+Jacob Green,Male,State University,92.4,2,74.3,Rejected
+April Ochoa,Female,State University,82.7,0,73.0,Rejected
+Hailey Harrison,Female,Ivy League / Elite,94.0,3,73.5,Selected
+Thomas Arroyo,Male,Community College,66.6,3,77.3,Rejected
+Alexa Jordan,Female,Community College,64.1,6,84.1,Selected
+David Smith,Male,Ivy League / Elite,85.8,4,90.3,Selected
+Jennifer Castro,Female,State University,59.8,2,64.8,Rejected
+Christopher Mclaughlin,Male,State University,32.9,5,59.5,Rejected
+James Baker,Male,State University,90.8,4,80.8,Selected
+David Duran,Male,Community College,58.8,3,61.7,Rejected
+Rhonda Cohen,Female,State University,79.8,3,86.1,Selected
+Patrick Lamb,Male,State University,86.6,4,89.2,Selected
+Scott White,Male,State University,67.9,3,82.1,Rejected
+Mark Williamson,Male,State University,79.0,4,62.1,Rejected
+Lisa Lopez,Female,State University,74.6,7,70.3,Selected
+Anthony Nichols,Male,State University,55.4,3,63.5,Rejected
+Ashley Adams,Female,State University,60.4,2,77.5,Rejected
+Monica Hall,Female,State University,84.6,0,71.9,Rejected
+Johnny Peterson,Male,State University,90.5,1,77.7,Rejected
+Rebecca Bolton,Female,State University,47.6,1,80.1,Rejected
+Rick Rivera,Male,State University,90.6,2,68.9,Rejected
+Tiffany Brown,Female,State University,78.3,0,79.9,Rejected
+Benjamin Harrison,Male,Community College,60.1,3,54.5,Rejected
+Sarah Roth,Female,Community College,83.6,0,73.5,Rejected
+Barbara Tate,Female,Ivy League / Elite,70.5,4,91.1,Selected
+Patricia Ramos,Female,State University,85.5,3,75.0,Rejected
+Amanda Murray,Female,Community College,79.2,5,95.2,Selected
+Joseph Hendrix,Male,State University,72.7,0,65.9,Rejected
+Michael Collins,Male,Community College,46.4,2,51.0,Rejected
+Lori Williams,Female,State University,90.2,4,77.3,Selected
+Joseph King,Male,State University,58.4,2,67.4,Rejected
+Cristian Clay,Male,Ivy League / Elite,76.7,2,74.8,Rejected
+Claudia Rodriguez,Female,Community College,73.6,2,71.1,Rejected
+Erika Jackson,Female,State University,53.0,2,81.0,Rejected
+Barbara Mccormick,Female,State University,58.4,4,65.6,Rejected
+Andrew Logan,Male,State University,79.9,5,78.5,Selected
+Linda Watson,Female,State University,63.8,0,90.4,Rejected
+Christopher Davis,Male,Community College,74.8,3,68.7,Rejected
+Tara Shea,Female,Community College,77.8,5,44.4,Rejected
+Anthony Newman,Male,State University,66.6,0,76.1,Rejected
+Rebecca Martinez,Female,Community College,70.9,3,64.8,Rejected
+Vicki Kramer,Female,State University,73.7,3,76.6,Rejected
+Robert Gonzales,Male,State University,75.7,3,66.0,Rejected
+Melissa Howard,Female,State University,77.7,2,74.0,Rejected
+Steven Washington,Male,Community College,58.7,3,72.9,Rejected
+Elizabeth Terry,Female,State University,63.2,0,63.9,Rejected
+Chelsea Bailey,Female,Community College,60.4,4,64.5,Rejected
+Donald Guerra,Male,Ivy League / Elite,89.3,3,72.8,Selected
+Kristen Jones,Female,State University,64.9,5,86.3,Selected
+Elizabeth Baker,Female,State University,71.0,5,73.4,Selected
+Aaron Little,Male,State University,86.2,3,63.4,Rejected
+Cody Smith,Male,State University,71.4,2,81.8,Rejected
+Patty Allen,Female,State University,84.8,6,77.8,Selected
+Mary Ryan,Female,State University,62.0,2,74.2,Rejected
+Kelly Jimenez,Female,Community College,84.0,6,80.1,Selected
+Lisa Morris,Female,Community College,59.2,6,85.6,Selected
+Brian Mills,Male,State University,72.8,1,72.8,Rejected
+Sandy Anderson,Female,Community College,75.1,2,54.3,Rejected
+Dale Washington,Male,State University,53.0,3,68.2,Rejected
+Kenneth Huff,Male,State University,67.4,4,77.9,Rejected
+Joseph Miles,Male,Community College,80.9,9,61.2,Selected
+Jacob Obrien,Male,Community College,70.6,5,64.4,Rejected
+Timothy Clark,Male,State University,53.9,1,65.8,Rejected
+Steve Miller,Male,Community College,74.5,2,66.6,Rejected
+Amy Grant,Female,Ivy League / Elite,67.7,5,73.8,Selected
+Jason Wood,Male,Community College,69.6,0,82.2,Rejected
+Rodney Baker,Male,State University,71.0,7,76.6,Selected
+Benjamin Torres,Male,State University,72.0,3,77.4,Rejected
+Tyler Davis,Male,State University,76.9,0,79.1,Rejected
+Joseph Lopez,Male,State University,60.6,7,82.2,Selected
+David Garrett,Male,Ivy League / Elite,85.1,0,69.8,Rejected
+Paul Perry,Male,State University,80.8,0,72.8,Rejected
+Margaret Howard,Female,Community College,83.9,5,71.6,Selected
+Maurice Andrade,Male,Ivy League / Elite,61.7,4,77.3,Rejected
+Christopher Morales,Male,State University,80.5,1,81.9,Rejected
+Christopher Murillo,Male,Ivy League / Elite,60.5,2,86.9,Rejected
+Heather Edwards,Female,State University,78.6,6,90.7,Selected
