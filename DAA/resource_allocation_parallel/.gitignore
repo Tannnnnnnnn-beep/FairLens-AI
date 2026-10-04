@@ -1,0 +1,19 @@
+# Compiled executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings
+.vscode/
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local backup directory
+backup_before_knapsack_migration/
